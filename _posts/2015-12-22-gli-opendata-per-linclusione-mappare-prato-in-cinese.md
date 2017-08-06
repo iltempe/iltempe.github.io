@@ -10,10 +10,10 @@ categories:
   - Hackers
   - Opendata
 tags:
-  - cinese
   - openstreetmap
   - prato
   - civic hacking
+image: /assets/article_images/2015-12-22-gli-opendata-per-linclusione-mappare-prato-in-cinese/1.jpg
 ---
 <p style="text-align: justify;">
   E&#8217; circa un anno che ho avviato all&#8217;interno della piattaforma <strong><a href="https://www.facebook.com/groups/1561722390780986/" target="_blank">M&#8217;Appare Prato</a>,</strong> un <a href="http://www.slideshare.net/pratosmart/mappare-prato-anche-in-cinese" target="_blank">progetto</a> di creazione di <em>opendata</em> a servizio della mia città per supportare i cinesi che come sapete a Prato rappresentano una realtà importante della città. Il progetto consente di essere applicato da subito a qualunque altra lingua per altre città.
@@ -67,7 +67,9 @@ Un paio di esempi di possibili mappe che si possono creare
   * Una mappa in doppia lingua creata da me con Mapbox è visibile [qui](https://api.mapbox.com/styles/v1/iltempe/ciih8iw2300c0brkmkmd5qhz8.html?title=true&access_token=MAPBOX_TOKEN_REMOVED#14.09/43.8855/11.0839) con i luoghi mappati ad oggi.
   * Un mappa che mostra Prato con i luoghi in cinese via via che sono mappati la trovate <a href="https://api.mapbox.com/styles/v1/iltempe/cij1k30qk003icam59eo8iyft.html?title=true&access_token=MAPBOX_TOKEN_REMOVED#14.244975988674852/43.88246470979311/11.08937891092097/0" target="_blank">qui</a>. (creata sempre con Mapbox)
 
-[<img class="aligncenter size-medium" title="" src="http://pratosmart.teo-soft.com/wp-content/uploads/2016/01/img_1239.jpeg" alt="" width="583" height="360" />](http://pratosmart.teo-soft.com/wp-content/uploads/2016/01/img_1239.jpeg)
+  ![](/assets/article_images/2015-12-22-gli-opendata-per-linclusione-mappare-prato-in-cinese/1.jpg)
+  ![](/assets/article_images/2015-12-22-gli-opendata-per-linclusione-mappare-prato-in-cinese/2.jpg)
+
 
 <h3 style="text-align: justify;">
   Altro Materiale
@@ -76,6 +78,10 @@ Un paio di esempi di possibili mappe che si possono creare
 <p style="text-align: justify;">
   <a href="http://www.slideshare.net/pratosmart/mappare-prato-anche-in-cinese" target="_blank">Qui</a> la mia presentazione fatta presso Meltin-PO. <a href="http://www.slideshare.net/pratosmart/note-openstreetmap-in-lingua-cinese?related=1" target="_blank">Qui</a> una presentazione in cinese su Openstreetmap. <a href="http://wiki.openstreetmap.org/wiki/WikiProject_China" target="_blank">Qui</a> il progetto wiki di mappatura della Cina. Altre indicazioni su come mappare in più lingue con Openstreetmap si trovano <a href="http://wiki.openstreetmap.org/wiki/Multilingual_names" target="_blank">qui</a>. <a href="http://wiki.openstreetmap.org/wiki/Zh-hant:Beginners%27_guide" target="_blank">Qui</a> il getting started di OSM in cinese.
 </p>
+
+![](/assets/article_images/2015-12-22-gli-opendata-per-linclusione-mappare-prato-in-cinese/3.jpg)
+![](/assets/article_images/2015-12-22-gli-opendata-per-linclusione-mappare-prato-in-cinese/4.jpg)
+
 
 <h3 style="text-align: justify;">
   Crediti
@@ -93,3 +99,5 @@ Un paio di esempi di possibili mappe che si possono creare
 <li style="text-align: justify;">
   Grazie a chiunque vorrà contribuire a questo progetto cosi importante per la città.
 </li>
+![](/assets/article_images/2015-12-22-gli-opendata-per-linclusione-mappare-prato-in-cinese/5.jpg)
+![](/assets/article_images/2015-12-22-gli-opendata-per-linclusione-mappare-prato-in-cinese/6.jpg)
