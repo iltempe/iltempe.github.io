@@ -4,6 +4,7 @@ date: 2015-02-01T18:56:45+00:00
 layout: post
 permalink: /come-fare-una-mappa-di-prato-cinese-e-tutte-le-lingue-del-mondo-con-openstreetmap/
 categories: blog
+image: http://www.tvprato.it/wp-content/uploads/2016/01/mappatura-in-lingua-cinese.jpg
 tags:
   - opendata
   - openstreetmap
@@ -63,6 +64,8 @@ Nel campo Popup Content Template potete inserire queste due chiavi
 per visualizzare quando si clicca su un punto di interesse il nome del luogo in italiano (name) e la sua traduzione ad esempio in cinese (name:zh) e ulteriori traduzioni se volete aggiungere altre lingue e se avete inserito i dati in lingua dentro openstreetmap.
 
 Fatto!
+
+![](http://www.tvprato.it/wp-content/uploads/2016/01/mappatura-in-lingua-cinese.jpg)
 
 Ieri abbiamo visto come si mappa l&#8217;ospedale di Prato, i pompieri, la questura e il circolo sede dell&#8217;associazione. Ecco cosa è venuto fuori!
 
