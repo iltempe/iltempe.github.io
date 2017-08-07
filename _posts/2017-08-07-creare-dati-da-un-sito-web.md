@@ -19,4 +19,4 @@ Con [Jekyll](https://jekyllrb.com/) è infatti possibile generare un file di dat
 
 <script src="https://gist.github.com/iltempe/3bc085abcd82782abdb2d883190f08eb.js"></script>
 
-Fatto. Ovviamente potete aggiungere al file JSON tutti i metadati che i vostri post hanno in modo da ottenre la struttura che desiderate. Adesso presso l'indirizzo "root/site.json" state generando i dati del vostro sito in formato JSON. Metodo semplice ma efficace nel caso si voglia generare dati oppure creare un "punto di aggancio" per caricare contenuti del sito in modo dinamico.
+Fatto. Ovviamente potete aggiungere al file JSON tutti i metadati che i vostri post hanno in modo da ottenere la struttura che desiderate. Adesso presso l'indirizzo "root/site.json" state generando i dati del vostro sito in formato JSON! Un metodo semplice ma efficace nel caso si voglia generare dati e creare un "punto di aggancio dinamico" per esportari i contenuti del proprio sito in modo da dare possibilità a chiunque di leggerli e interpretarli.
