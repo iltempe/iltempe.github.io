@@ -19,6 +19,4 @@ Con [Jekyll](https://jekyllrb.com/) è infatti possibile generare un file di dat
 
 <script src="https://gist.github.com/iltempe/3bc085abcd82782abdb2d883190f08eb.js"></script>
 
-Fatto.
-
-Adesso presso l'indirizzo "root/site.json" state generando i dati del vostro sito in formato JSON. Metodo semplice ma efficace nel caso si voglia generare dati oppure creare un "punto di aggancio" per caricare contenuti del sito in modo dinamico.
+Fatto. Adesso presso l'indirizzo "root/site.json" state generando i dati del vostro sito in formato JSON. Metodo semplice ma efficace nel caso si voglia generare dati oppure creare un "punto di aggancio" per caricare contenuti del sito in modo dinamico.
