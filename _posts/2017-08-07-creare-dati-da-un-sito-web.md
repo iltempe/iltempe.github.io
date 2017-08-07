@@ -19,4 +19,9 @@ Con [Jekyll](https://jekyllrb.com/) è infatti possibile generare un file di dat
 
 <script src="https://gist.github.com/iltempe/3bc085abcd82782abdb2d883190f08eb.js"></script>
 
-Fatto. Ovviamente potete aggiungere al file JSON tutti i metadati che i vostri post hanno in modo da ottenere la struttura che desiderate. Adesso presso l'indirizzo "root/site.json" state generando i dati del vostro sito in formato JSON! Un metodo semplice ma efficace nel caso si voglia generare dati e creare un "punto di aggancio dinamico" per esportari i contenuti del proprio sito in modo da dare possibilità a chiunque di leggerli e interpretarli.
+Fatto.
+Lo script non fa altro che creare una struttura dati (formattata come JSON) con alcuni metadati contenuti nell'intestazione dei vostri post (titolo, data, link, contenuto). Ovviamente potete aggiungere al file JSON tutti i metadati che i vostri post hanno in modo da ottenere la struttura che desiderate. Adesso presso l'indirizzo "root/site.json" state generando i dati del vostro sito in formato JSON!
+
+La cosa interessante è che quindi il codice ruby viene quindi elaborato da Jekyll in modo tale da generare un dataset, partendo dai metadati stessi del sito!
+
+E' un metodo semplice ma efficace nel caso si voglia generare dati e creare un "punto di aggancio dinamico" per esportari i contenuti del proprio sito in modo da dare possibilità a chiunque di leggerli e interpretarli.
