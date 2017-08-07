@@ -2,9 +2,9 @@
 title: Il treno lento
 date: 2017-06-01T18:56:45+00:00
 layout: post
-permalink: /come-fare-una-mappa-di-prato-cinese-e-tutte-le-lingue-del-mondo-con-openstreetmap/
+permalink: /il-treno-lento/
 categories: blog
-image: http://www.tvprato.it/wp-content/uploads/2016/01/mappatura-in-lingua-cinese.jpg
+image: https://cdn-images-1.medium.com/max/1200/1*rShN7rSJEt2JKc6Inmog0A.jpeg
 tags:
   - treni
   - bologna
@@ -48,8 +48,7 @@ Capita che da un po’ di tempo periodicamente devo recarmi a Bologna per lavoro
 
 Normalmente la mattina da Prato c’è un regionale alle 7.32 (il 6538) che da
 [Prato Centrale](https://it.wikipedia.org/wiki/Stazione_di_Prato_Centrale) ferma
-a [San Benedetto
-Sambro-Castiglione](https://it.wikipedia.org/wiki/Stazione_di_San_Benedetto_Sambro-Castiglione_Pepoli)
+a [San Benedetto Sambro-Castiglione](https://it.wikipedia.org/wiki/Stazione_di_San_Benedetto_Sambro-Castiglione_Pepoli)
 e procede per [Bologna Centrale](http://www.bolognacentrale.it/it/). Non che
 perda tempo di lavoro, oggigiorno se vuoi lavorare puoi farlo ovunque e ad ogni
 ora (anche in treno) e a me basta un portatile ed un po’ di connessione internet
