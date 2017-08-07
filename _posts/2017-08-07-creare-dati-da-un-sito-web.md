@@ -10,7 +10,9 @@ tags:
 image: /assets/article_images/2017-08-07-creare-dati-da-un-sito-web/1.jpeg
 ---
 
-Con [Jekyll](https://jekyllrb.com/) è possibile generare un file di dati relativi al sito in formato JSON in modo piuttosto semplice e automatico. Come? Seguite questi passaggi.
+In [questo post](https://iltempe.github.io/blog/2017/08/05/generare-siti-da-dataset.html) abbiamo visto come generare contenuti web a partire dai dati. Oggi vediamo un esempio di processo contrario, ovvero come generare dati dai contenuti web.
+
+Con [Jekyll](https://jekyllrb.com/) è infatti possibile generare un file di dati relativi al sito in formato JSON in modo piuttosto semplice e automatico. Come? Seguite questi passaggi.
 
 - Creare un file dal nome site.json e salvatelo nella root del vostro sito
 - Inseriteci questo codice
