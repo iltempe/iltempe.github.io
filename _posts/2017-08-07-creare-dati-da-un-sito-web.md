@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Creare dati da i post di un sito Jekyll"
+title:  "Creare dati dai post di un sito Jekyll"
 date:   2017-08-07 10:34:25
 categories: blog
 tags:
