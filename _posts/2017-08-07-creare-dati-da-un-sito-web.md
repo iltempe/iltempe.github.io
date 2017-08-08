@@ -24,4 +24,4 @@ Lo script non fa altro che creare una struttura dati (formattata come JSON) con 
 
 La cosa interessante è che quindi il codice ruby viene quindi elaborato da Jekyll in modo tale da generare un dataset, partendo dai metadati stessi del sito!
 
-E' un metodo semplice ma efficace nel caso si voglia generare dati e creare un "punto di aggancio dinamico" per esportari i contenuti del proprio sito in modo da dare possibilità a chiunque di leggerli e interpretarli.
+E' un metodo semplice ma efficace nel caso si voglia generare dati e creare un "punto di aggancio dinamico" per esportare i contenuti del proprio sito in modo da dare possibilità a chiunque di leggerli e interpretarli.
