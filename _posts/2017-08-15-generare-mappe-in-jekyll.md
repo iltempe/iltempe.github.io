@@ -33,6 +33,6 @@ Andiamo ad un esempio. Il caso di uso è : devo creare una mappa dei musei della
 - Salvate il file HTML creato nella folder `_includes` di jekyll, in modo da renderlo un modulo riusabile
 - Importate la vostra mappa in qualunque post o pagina con l'istruzione % include musei_map.html % (inserita nel post o nella pagina tra due parentesi graffe)
 
-Fatto! il risultato si vede sotto. Il mio esempio è creato con un unico file html ma potete separare la parte html da quella in js. E adesso potete divertirvi a customizzare di più il mio codice, aggiungendo link, livelli, dati etc.
+Il risultato si vede sotto. Il mio esempio è creato con un unico file html, ma potete separare la parte html da quella in js. E successivamente potete divertirvi a customizzare di più il mio codice, aggiungendo alcuni link, icone diverse etc.
 
 {% include musei_map.html %}
