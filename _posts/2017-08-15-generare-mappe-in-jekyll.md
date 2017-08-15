@@ -12,9 +12,9 @@ image: /assets/article_images/2017-08-15-generare-mappe-in-jekyll/1.jpeg
 
 In [questo post](https://iltempe.github.io/blog/2017/08/05/generare-siti-da-dataset.html) abbiamo visto come generare contenuti web a partire dai dati all'interno dell'ambiente [Jekyll](https://jekyllrb.com/).
 
-E' piuttosto semplice, combinando questa funzionalità con le caratteristiche del plugin javascript [Leaflet](http://leafletjs.com/), usare i dati dentro Jekyll per mapparli. Sicuramente ci sono molti altri ambienti che consentono di mappare dei punti in un file di dati, ma il fatto di poterlo fare dentro Jekyll consente almeno due vantaggi ossia la customizzazione della mappa in modo piuttosto rapido (anche se si deve durare un po' di fatica con qualche linea di codice in più) e soprattutto il riuso di quanto fatto per ulteriori mappe. Andiamo ad un esempio.
+E' piuttosto semplice, combinando questa funzionalità con le caratteristiche del plugin javascript [Leaflet](http://leafletjs.com/), usare i dati dentro Jekyll per mapparli. Sicuramente ci sono molti altri ambienti che consentono di mappare dei punti in un file di dati, ma il fatto di poterlo fare dentro Jekyll consente almeno due vantaggi ossia la customizzazione della mappa in modo piuttosto rapido (anche se si deve durare un po' di fatica con qualche linea di codice in più) e soprattutto il riuso di quanto fatto per ulteriori mappe. Il prerequisito è (oltre al fatto che i dati siano formati digeribili da Jekyll) che abbiano anche i parametri di Longitudine e Latitudine per ogni recordo.
 
-Il caso di uso è : devo creare una mappa dei musei della Regione Toscana. Come fare?
+Andiamo ad un esempio. Il caso di uso è : devo creare una mappa dei musei della Regione Toscana. Come fare?
 
 - Ho prelevato il dataset dei musei presente sul portale [OpenToscana](http://open.toscana.it/), il CSV trovate [qui](http://mappe.regione.toscana.it/db-webgis/musei/example_postgis.jsp?format=csv&_ga=2.41993573.1701934011.1502803639-2104128018.1501614393).
 - Archiviate questo dataset nella folder _data del vostro sito jekyll
