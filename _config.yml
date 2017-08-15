@@ -1,5 +1,5 @@
 # Build settings
-gems:
+plugins:
   - jemoji
   - jekyll-paginate
 
@@ -54,6 +54,15 @@ social:
     share_url:
     share_title:
     share_link:
+
+# uncomment, if you prefer to generate named folders
+#page_gen-dirs: true
+
+#page_gen:
+#  - data: 'musei'
+#    template: 'musei'
+#    name: 'id'
+#    dir: 'musei'
 
 #  - icon:	google-plus
 #    url:	https://google.com/???

@@ -1,0 +1,133 @@
+0 info it worked if it ends with ok
+1 verbose cli [ '/usr/local/bin/node',
+1 verbose cli   '/usr/local/bin/npm',
+1 verbose cli   'i',
+1 verbose cli   '[-g]',
+1 verbose cli   'to-jekyll-collection' ]
+2 info using npm@2.15.1
+3 info using node@v4.4.3
+4 verbose config Skipping project config: /Users/TeoPro/.npmrc. (matches userconfig)
+5 verbose install initial load of /Users/TeoPro/package.json
+6 verbose installManyTop reading scoped package data from /Users/TeoPro/node_modules/chromecasts/package.json
+7 verbose readDependencies loading dependencies from /Users/TeoPro/package.json
+8 silly cache add args [ '[-g]', null ]
+9 verbose cache add spec [-g]
+10 silly cache add args [ 'to-jekyll-collection', null ]
+11 verbose cache add spec to-jekyll-collection
+12 silly cache add parsed spec Result {
+12 silly cache add   raw: '[-g]',
+12 silly cache add   scope: null,
+12 silly cache add   name: null,
+12 silly cache add   rawSpec: '[-g]',
+12 silly cache add   spec: '/Users/TeoPro/Documents/git/iltempe.github.io/[-g]',
+12 silly cache add   type: 'local' }
+13 silly cache add parsed spec Result {
+13 silly cache add   raw: 'to-jekyll-collection',
+13 silly cache add   scope: null,
+13 silly cache add   name: 'to-jekyll-collection',
+13 silly cache add   rawSpec: '',
+13 silly cache add   spec: 'latest',
+13 silly cache add   type: 'tag' }
+14 silly addNamed to-jekyll-collection@latest
+15 verbose addNamed "latest" is being treated as a dist-tag for to-jekyll-collection
+16 info addNameTag [ 'to-jekyll-collection', 'latest' ]
+17 silly mapToRegistry name to-jekyll-collection
+18 silly mapToRegistry using default registry
+19 silly mapToRegistry registry https://registry.npmjs.org/
+20 silly mapToRegistry data Result {
+20 silly mapToRegistry   raw: 'to-jekyll-collection',
+20 silly mapToRegistry   scope: null,
+20 silly mapToRegistry   name: 'to-jekyll-collection',
+20 silly mapToRegistry   rawSpec: '',
+20 silly mapToRegistry   spec: 'latest',
+20 silly mapToRegistry   type: 'tag' }
+21 silly mapToRegistry uri https://registry.npmjs.org/to-jekyll-collection
+22 verbose addNameTag registry:https://registry.npmjs.org/to-jekyll-collection not in flight; fetching
+23 error addLocal Could not install /Users/TeoPro/Documents/git/iltempe.github.io/[-g]
+24 verbose request uri https://registry.npmjs.org/to-jekyll-collection
+25 verbose request no auth needed
+26 info attempt registry request try #1 at 22:07:56
+27 verbose request id f83447d0c9dd9541
+28 http request GET https://registry.npmjs.org/to-jekyll-collection
+29 http 200 https://registry.npmjs.org/to-jekyll-collection
+30 verbose headers { server: 'nginx/1.10.1',
+30 verbose headers   'content-type': 'application/json',
+30 verbose headers   'last-modified': 'Wed, 08 Jun 2016 18:16:12 GMT',
+30 verbose headers   etag: 'W/"575860ec-cd3"',
+30 verbose headers   'content-encoding': 'gzip',
+30 verbose headers   'cache-control': 'max-age=300',
+30 verbose headers   'content-length': '1086',
+30 verbose headers   'accept-ranges': 'bytes',
+30 verbose headers   date: 'Thu, 10 Aug 2017 20:07:57 GMT',
+30 verbose headers   via: '1.1 varnish',
+30 verbose headers   age: '0',
+30 verbose headers   connection: 'keep-alive',
+30 verbose headers   'x-served-by': 'cache-hhn1541-HHN',
+30 verbose headers   'x-cache': 'MISS',
+30 verbose headers   'x-cache-hits': '0',
+30 verbose headers   'x-timer': 'S1502395677.153483,VS0,VE41',
+30 verbose headers   vary: 'Accept-Encoding, Accept' }
+31 silly get cb [ 200,
+31 silly get   { server: 'nginx/1.10.1',
+31 silly get     'content-type': 'application/json',
+31 silly get     'last-modified': 'Wed, 08 Jun 2016 18:16:12 GMT',
+31 silly get     etag: 'W/"575860ec-cd3"',
+31 silly get     'content-encoding': 'gzip',
+31 silly get     'cache-control': 'max-age=300',
+31 silly get     'content-length': '1086',
+31 silly get     'accept-ranges': 'bytes',
+31 silly get     date: 'Thu, 10 Aug 2017 20:07:57 GMT',
+31 silly get     via: '1.1 varnish',
+31 silly get     age: '0',
+31 silly get     connection: 'keep-alive',
+31 silly get     'x-served-by': 'cache-hhn1541-HHN',
+31 silly get     'x-cache': 'MISS',
+31 silly get     'x-cache-hits': '0',
+31 silly get     'x-timer': 'S1502395677.153483,VS0,VE41',
+31 silly get     vary: 'Accept-Encoding, Accept' } ]
+32 verbose get saving to-jekyll-collection to /Users/TeoPro/.npm/registry.npmjs.org/to-jekyll-collection/.cache.json
+33 verbose correctMkdir /Users/TeoPro/.npm correctMkdir not in flight; initializing
+34 silly addNameTag next cb for to-jekyll-collection with tag latest
+35 silly addNamed to-jekyll-collection@0.1.1
+36 verbose addNamed "0.1.1" is a plain semver version for to-jekyll-collection
+37 silly mapToRegistry name to-jekyll-collection
+38 silly mapToRegistry using default registry
+39 silly mapToRegistry registry https://registry.npmjs.org/
+40 silly mapToRegistry data Result {
+40 silly mapToRegistry   raw: 'to-jekyll-collection',
+40 silly mapToRegistry   scope: null,
+40 silly mapToRegistry   name: 'to-jekyll-collection',
+40 silly mapToRegistry   rawSpec: '',
+40 silly mapToRegistry   spec: 'latest',
+40 silly mapToRegistry   type: 'tag' }
+41 silly mapToRegistry uri https://registry.npmjs.org/to-jekyll-collection
+42 verbose addRemoteTarball https://registry.npmjs.org/to-jekyll-collection/-/to-jekyll-collection-0.1.1.tgz not in flight; adding
+43 verbose addRemoteTarball [ 'https://registry.npmjs.org/to-jekyll-collection/-/to-jekyll-collection-0.1.1.tgz',
+43 verbose addRemoteTarball   'bbd0b7b01dd238af3b0175e6927a235b206e9fbf' ]
+44 info retry fetch attempt 1 at 22:07:57
+45 info attempt registry request try #1 at 22:07:57
+46 http fetch GET https://registry.npmjs.org/to-jekyll-collection/-/to-jekyll-collection-0.1.1.tgz
+47 http fetch 200 https://registry.npmjs.org/to-jekyll-collection/-/to-jekyll-collection-0.1.1.tgz
+48 silly fetchAndShaCheck shasum bbd0b7b01dd238af3b0175e6927a235b206e9fbf
+49 verbose addTmpTarball /var/folders/79/4h9rzwtx739cgqh2rv0n50fw0000gn/T/npm-874-52e07406/registry.npmjs.org/to-jekyll-collection/-/to-jekyll-collection-0.1.1.tgz not in flight; adding
+50 verbose addTmpTarball already have metadata; skipping unpack for to-jekyll-collection@0.1.1
+51 verbose correctMkdir /Users/TeoPro/.npm correctMkdir not in flight; initializing
+52 silly cache afterAdd to-jekyll-collection@0.1.1
+53 verbose afterAdd /Users/TeoPro/.npm/to-jekyll-collection/0.1.1/package/package.json not in flight; writing
+54 verbose correctMkdir /Users/TeoPro/.npm correctMkdir not in flight; initializing
+55 verbose afterAdd /Users/TeoPro/.npm/to-jekyll-collection/0.1.1/package/package.json written
+56 verbose stack Error: ENOENT: no such file or directory, open '/Users/TeoPro/Documents/git/iltempe.github.io/[-g]'
+56 verbose stack     at Error (native)
+57 verbose cwd /Users/TeoPro/Documents/git/iltempe.github.io
+58 error Darwin 16.6.0
+59 error argv "/usr/local/bin/node" "/usr/local/bin/npm" "i" "[-g]" "to-jekyll-collection"
+60 error node v4.4.3
+61 error npm  v2.15.1
+62 error path /Users/TeoPro/Documents/git/iltempe.github.io/[-g]
+63 error code ENOENT
+64 error errno -2
+65 error syscall open
+66 error enoent ENOENT: no such file or directory, open '/Users/TeoPro/Documents/git/iltempe.github.io/[-g]'
+66 error enoent This is most likely not a problem with npm itself
+66 error enoent and is related to npm not being able to find a file.
+67 verbose exit [ -2, true ]

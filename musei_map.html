@@ -1,0 +1,72 @@
+---
+layout: page
+title: Mappa dei Musei della Toscana
+permalink: /mappa_musei/
+---
+
+{% include header.html %}
+
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.0.0/dist/leaflet.css" />
+<script src="https://unpkg.com/leaflet@1.0.0/dist/leaflet.js"></script>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css" />
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.min.js"></script>
+
+<style>
+  #map{ height: 500px }
+</style>
+
+<div class="row"> <div class="col-md-2">Mappa:</div><div class="col-md-4"> <div id="map"></div> </div> </div>
+
+<script>
+  //crea lo stile dei "segnaposto"
+  var houseMarker = L.AwesomeMarkers.icon({
+  icon: 'home',
+  prefix: 'fa',
+  markerColor: 'green'
+  });
+
+  //crea la lista dei "segnaposto"
+  var markerList=[];
+  {% for member in site.data.musei %}
+    markerList.push([{{member.lat}}, {{member.lon}}, "{{member.denominazione|uri_escape}}", "{{member.indirizzo}}"]);
+  {% endfor %}
+
+  // inizzializza la mappa
+  var map = L.map('map')
+
+  // create the tile layer with correct attribution
+  var osmUrl='http://{s}.tile.openstreetmap.fr/hot/{z}/{x}/{y}.png';
+  var osmAttrib='&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>, Tiles courtesy of <a href="http://hot.openstreetmap.org/" target="_blank">Humanitarian OpenStreetMap Team</a>';
+  var osm = new L.TileLayer(osmUrl, {minZoom: 6, maxZoom: 19, attribution: osmAttrib});
+
+  var sumLat = 0.;
+  var sumLon = 0.;
+  var countMarkers=0;
+
+  for (var i=0; i<markerList.length; i++) {
+
+        //seleziona le variabili da far vedere sul POPup
+          var lat = markerList[i][0];
+          var lon = markerList[i][1];
+          var popupText1 = markerList[i][2];
+          var popupText2 = markerList[i][3];
+
+          //visualizza i POI su mappa
+          if (!isNaN(lat) && !isNaN(lon)) {
+            var markerLocation = new L.LatLng(lat, lon);
+            var marker = new L.Marker(markerLocation, { icon: houseMarker} );
+            map.addLayer(marker);
+            marker.bindPopup(decodeURI(popupText1 + popupText2));
+            sumLat += lat;
+            sumLon += lon;
+            countMarkers++;
+          }
+  }
+
+  //inizializza il livello (e visualizza tutti i punti)
+  map.addLayer(osm).setView([sumLat / countMarkers, sumLon / countMarkers], 8);
+
+  </script>
+  
+  <div class="row"> <div class="col-md-2"><a href="http://dati.toscana.it/dataset/rt-musei/resource/164d3a36-ede9-44a7-8f01-d9431f9f0cff">Fonte dei dati OpenToscana</a></div><div class="col-md-4"> <div id="map"></div> </div> </div>
+
