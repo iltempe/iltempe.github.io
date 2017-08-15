@@ -50,7 +50,7 @@
             var markerLocation = new L.LatLng(lat, lon);
             var marker = new L.Marker(markerLocation, { icon: houseMarker} );
             map.addLayer(marker);
-            marker.bindPopup(decodeURI(popupText1 + popupText2));
+            marker.bindPopup(decodeURI(popupText1 + " " + popupText2));
             sumLat += lat;
             sumLon += lon;
             countMarkers++;
@@ -58,7 +58,7 @@
   }
 
   //inizializza il livello (e visualizza tutti i punti)
-  map.addLayer(osm).setView([sumLat / countMarkers, sumLon / countMarkers], 8);
+  map.addLayer(osm).setView([sumLat / countMarkers, sumLon / countMarkers], 9);
 
   </script>
 
