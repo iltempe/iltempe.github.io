@@ -12,7 +12,9 @@ image: /assets/article_images/2017-08-15-generare-mappe-in-jekyll/1.jpeg
 
 In [questo post](https://iltempe.github.io/blog/2017/08/05/generare-siti-da-dataset.html) abbiamo visto come generare contenuti web a partire dai dati all'interno dell'ambiente [Jekyll](https://jekyllrb.com/).
 
-E' piuttosto semplice, combinando questa funzionalità con le caratteristiche del plugin javascript [Leaflet](http://leafletjs.com/), usare i dati dentro Jekyll per mapparli. Sicuramente ci sono molti altri ambienti che consentono di mappare dei punti in un file di dati, ma il fatto di poterlo fare dentro Jekyll consente almeno due vantaggi ossia la customizzazione della mappa in modo piuttosto rapido (anche se si deve durare un po' di fatica con qualche linea di codice in più) e soprattutto il riuso di quanto fatto per ulteriori mappe. Il prerequisito è (oltre al fatto che i dati siano formati digeribili da Jekyll) che abbiano anche i parametri di Longitudine e Latitudine per ogni recordo.
+E' piuttosto semplice, combinando questa funzionalità con le caratteristiche del plugin javascript [Leaflet](http://leafletjs.com/), usare i dati dentro Jekyll per mapparli. Leaflet è un plugin opensource per creare semplici mappe visualizzabili in modalità responsive senza troppo sforzo nella codifica.
+
+Ci sono molti altri ambienti che consentono di mappare dei punti in un file di dati, ma il fatto di poterlo fare dentro Jekyll consente almeno due vantaggi ossia la personalizzazione della mappa in modo piuttosto rapido (anche se si deve durare un po' di fatica con qualche linea di codice in più) e soprattutto il riuso di quanto fatto per ulteriori mappe. Il prerequisito è (oltre al fatto che i dati siano formati "digeribili" da Jekyll) che abbiano anche i parametri di Longitudine e Latitudine per ogni record da mappare.
 
 Andiamo ad un esempio. Il caso di uso è : devo creare una mappa dei musei della Regione Toscana. Come fare?
 
@@ -25,12 +27,12 @@ Andiamo ad un esempio. Il caso di uso è : devo creare una mappa dei musei della
 - Come è fatto questo file? Ho cercato di commentare abbastanza il codice, in sostanza è un file html che fa le seguenti operazioni in sequenza:
   - Importa le librerie e gli stili di Leaflet
   - Definisce nella pagina una sezione HTML denominata "map"
-  - Tramite uno script definisce lo stile dei Marker su mappa, crea la lista dei marker dai dati jekyll
-  - Imposta il formato dei POPup su mappa
-  - Mostra il livello appena creato
+  - Tramite uno script JS definisce lo stile dei Marker su mappa e successivamente crea la lista dei marker dai dati jekyll
+  - Imposta il formato dei POPup sulla mappa
+  - Mostra il livello dei punti di interesse appena creato
 - Salvate il file HTML creato nella folder `_includes` di jekyll, in modo da renderlo un modulo riusabile
-- Importate la vostra mappa in qualunque post o pagina con l'istruzione "% include musei_map.html %"
+- Importate la vostra mappa in qualunque post o pagina con l'istruzione % include musei_map.html % (inserita nel post o nella pagina tra due parentesi graffe)
 
-Fatto, il risultato si vede sotto. Ora potete divertirvi a customizzare di più il mio codice, aggiungendo link, livelli, dati etc.
+Fatto! il risultato si vede sotto. Il mio esempio è creato con un unico file html ma potete separare la parte html da quella in js. E adesso potete divertirvi a customizzare di più il mio codice, aggiungendo link, livelli, dati etc.
 
 {% include musei_map.html %}
