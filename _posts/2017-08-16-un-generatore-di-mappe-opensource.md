@@ -20,9 +20,9 @@ Il progetto nasce da un "sito base" fatto jekyll al cui interno ho creato una ["
 
 ![](/assets/article_images/2017-08-16-un-generatore-di-mappe-opensource/2.png)
 
-La collezione "mappe" è costituita da un unsieme di file .md con un'header che definisce per ogni mappa una serie di metadati necessari al generatore di mappe. Tra questi metadati compare anche una voce "dataset" che indica quale file di dati in jekyll è il file sorgente della mappa che si vuole elaborare.
+La collezione "mappe" è costituita da un insieme di file .md con un header che definisce per ogni mappa una serie di metadati necessari al generatore di mappe. Tra questi metadati compare anche una voce "dataset" che indica quale file di dati in jekyll è il file sorgente della mappa che si vuole elaborare.
 
-E' sufficiente per aggiungere una mappa al vostro sito:
+Una volta impostato il motore, per aggiungere una mappa al vostro sito vi sarà sufficiente:
 
   - Inserire un file .md nella cartella maps con il formato definito dal template
   - Inserire un file nella folder _data contenente i dati da mappare
@@ -33,4 +33,4 @@ Il tutto si basa su una versione di jekyll usabile anche tramite le [Github Page
 
 ![](/assets/article_images/2017-08-16-un-generatore-di-mappe-opensource/3.png)
 
-Attualmente sono inserite nel framework tre mappe di esempio, il progetto però è solo all'inizio e cerca [su github](https://github.com/iltempe/jmap) la collaborazione di tutti per ampliarlo. che aspetti a darmi una mano? Aspetto anche i tuoi suggerimenti!
+Attualmente sono inserite nel framework tre mappe di esempio, il progetto però è solo all'inizio e cerca [su github](https://github.com/iltempe/jmap) la collaborazione di tutti per ampliarlo, non tanto in termini di mappe quanto in termini di funzionalità. Che aspetti a darmi una mano? Aspetto i tuoi suggerimenti, i tuoi issue e le tue pull request!
