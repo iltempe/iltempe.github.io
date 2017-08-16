@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Un generatore di mappe opensource"
-date:   2017-08-16 00:00:25
+date:   2017-08-16 09:00:00
 categories: blog
 tags:
   - opendata
