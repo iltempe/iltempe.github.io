@@ -33,7 +33,7 @@ Come far incontrare una sera  quindi i vostri nuovi amici Jekyll, Github e Travi
 
 * Nella vista di sviluppo potete preparare un tavolo con un po’ di bevute per la serata. In sintesi potete inserire i sorgenti della prima versione del vostro sito committando i sorgenti che saranno archiviati e versionati.
 
-* Adesso dobbiamo dire a Travis come accedere al locale dove si trova Github. Per farlo dovete loggarvi in Travis, selezionare il locale (repository) su Github che avete appena creato. Per fare questo dovrete settare le impostazioni del repository selezionato nel modo indicato sotto. i valori delle variabili di ambiente GH_REF sarà *github.com/<username>/<repository> *e quello della variabile GH_TOKEN deve essere quello della variabile token creata al primo passo
+* Adesso dobbiamo dire a Travis come accedere al locale dove si trova Github. Per farlo dovete loggarvi in Travis, selezionare il locale (repository) su Github che avete appena creato. Per fare questo dovrete settare le impostazioni del repository selezionato nel modo indicato sotto. i valori delle variabili di ambiente GH_REF sarà 'github.com/<username>/<repository>' e quello della variabile GH_TOKEN deve essere quello della variabile token creata al primo passo
 
 ![travis settings](/assets/article_images/2017-08-27-Organizzare-una-serata-con/3.png)
 
