@@ -27,7 +27,7 @@ Il flusso di lavoro che ho deciso di adottare è quindi:
 
 ![processo di produzione](/assets/article_images/2017-08-27-Organizzare-una-serata-con/2.jpg)
 
-Come far incontrare una sera  quindi i vostri nuovi amici Jekyll, Github e Travis? Ecco le operazioni da seguire. Per tutti i dettagli potete guardare come ho impostato [il repository Github di JMAP](https://github.com/iltempe/jmap).  La seguente procedura presuppone che abbiate incontrato per lo meno una volta nella vita Github, Jekyll e Travis, se non è mai accaduto prima prendere un appuntamento singolarmente con ognuno di loro e poi tornate a questa pagina.
+Come far incontrare una sera  quindi i vostri nuovi amici Jekyll, Github e Travis? Ecco le operazioni da seguire. Per tutti i dettagli potete guardare come ho impostato [il repository Github di JMAP](https://github.com/iltempe/jmap).  La seguente procedura presuppone che abbiate incontrato per lo meno una volta nella vita Github, Jekyll e Travis, se non è mai accaduto prima prendete un appuntamento singolarmente con ognuno di loro e poi tornate a questa pagina.
 
 * Create su Github un "locale" dove far incontrare i tre amici. Trattasi di repository che usi le Github Pages. In questo “locale” dove sviluppare (in un branch che creerete voi e che chiamerete development) e dove archiviare il vostro prodotto finito (nel branch di default chiamato master). Per creare un branch fate riferimento a [questa guida](https://help.github.com/articles/creating-and-deleting-branches-within-your-repository/). Create una variabile Token nella pagina del vostro account Github "Settings > Personal access tokens"
 
