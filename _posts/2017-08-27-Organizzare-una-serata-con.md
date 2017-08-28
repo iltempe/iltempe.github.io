@@ -39,7 +39,7 @@ Come far incontrare una sera  quindi i vostri nuovi amici Jekyll, Github e Travi
 
 * A questo punto inserite nel vostro sito il file di configurazione per l’amico Travis. E’ come fossero le indicazioni stradali per arrivare al locale a cui Github lo attende. Un esempio di file che ho fatto io è [questo](https://github.com/iltempe/jmap/blob/development/.travis.yml) ma potete impostarlo anche da soli seguendo le istruzioni di [questa pagina](https://docs.travis-ci.com/user/customizing-the-build). Il mio file spiega a Travis che deve recarsi da Github e prelevare i sorgenti nella vista di sviluppo, deve incontrare Travis per costruire il sito, ma poi deve riunirsi nuovamente con il sito costruito su Github nella vista master. In queste indicazioni avete anche spiegato a Travis come incontrarsi con Jekyll prima che il prodotto del vostro deploy sia inserito nel locale dove lo attende Github e le sue Pages per rendere il sito visibile online.
 
-<script src="[https://gist.github.com/iltempe/9656da6d124871bb498294804a7af9d2.js](https://gist.github.com/iltempe/9656da6d124871bb498294804a7af9d2.js)"></script>
+<script src="https://gist.github.com/iltempe/9656da6d124871bb498294804a7af9d2.js"></script>
 
 Da questo momento in poi ogni volta che modificate i sorgenti nella vista *development *automaticamente Travis incontrerà Github per prelevarli, incontrerà Jekyll per costruire il vostro sito e poi nuovamente Github per pubblicarlo.
 
