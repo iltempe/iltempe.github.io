@@ -8,7 +8,7 @@ tags:
   - opensource
   - civic hacking
   - tutorial
-image: /assets/article_images/2017-08-28-tenere-aggiorati-dati-con-una-riga/1.jpg
+image: /assets/article_images/2017-08-28-tenere-aggiorati-dati-con-una-riga/1.jpeg
 ---
 
 Esigenza: ho un set di dati archiviati da qualche parte in remoto che si aggiornano spesso (magari!) e ho necessità di copiarli su qualche cartella in locale o altro server per usarli per una mia applicazione. Come si fa? Un modo molto semplice è il seguente:
