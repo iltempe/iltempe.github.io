@@ -30,5 +30,8 @@ A questo punto sarà sufficiente istruire Travis in modo tale che prima di effet
 
 Notate che l'istruzione per sostiuire MAPILLARY_CLIENT_ID_SECRET con il valore della variabile $MAPILLARY_CLIENT_ID è tra doppie virgolette il che serve per far espandere la variabile d'ambiente in modo corretto a travis. Fatto.
 
+Se in locale volete invece mantenere un ambiente per sviluppare e quindi anche con tutti i dati sensibili vi conviene avere un file _config_dev.yml da non condividere su Github e da usare solo localment e per effettuare i vostri test. Se state usando Jekyll si può facilmente scegliere quale file di configurazione usare con il comando per il build:
+`bundle exec jekyll serve --config _config_dev.yml`
+
 
 
