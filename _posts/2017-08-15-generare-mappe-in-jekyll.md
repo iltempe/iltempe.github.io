@@ -7,6 +7,7 @@ tags:
   - opendata
   - web design
   - jekyll
+  - tutorial
 image: /assets/article_images/2017-08-15-generare-mappe-in-jekyll/1.jpeg
 ---
 

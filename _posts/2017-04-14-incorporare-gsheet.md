@@ -6,6 +6,7 @@ categories: blog
 tags:
   - google sheet
   - web design
+  - tutorial
 image: /assets/article_images/2017-04-14-incorporare-gsheet/1.jpeg
 ---
 Ecco come incorporare un foglio di lavoro in un sito web.

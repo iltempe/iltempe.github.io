@@ -8,6 +8,7 @@ tags:
   - web design
   - jekyll
   - github
+  - tutorial
 image: /assets/article_images/2017-08-05-generare-siti-da-dataset/2.jpeg
 ---
 

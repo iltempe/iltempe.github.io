@@ -7,6 +7,7 @@ tags:
   - opendata
   - web design
   - jekyll
+  - tutorial
 image: /assets/article_images/2017-08-07-creare-dati-da-un-sito-web/1.jpeg
 ---
 

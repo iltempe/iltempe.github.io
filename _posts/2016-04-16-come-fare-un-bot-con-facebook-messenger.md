@@ -7,6 +7,7 @@ tags:
   - bot
   - messenger
   - social
+  - tutorial
 image: /assets/article_images/2016-04-16-come-fare-un-bot-con-facebook-messenger/fb.jpg
 ---
 

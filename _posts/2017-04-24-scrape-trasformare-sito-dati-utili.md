@@ -6,6 +6,7 @@ categories: blog
 tags:
   - opendata
   - civic hacking
+  - tutorial
 image: /assets/article_images/2017-04-24-scrape-trasformare-sito-dati-utili/1.jpg
 ---
 
