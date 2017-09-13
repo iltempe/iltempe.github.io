@@ -6,7 +6,7 @@ categories: blog
 tags:
   - pa
   - opendata
-image: /assets/article_images/2017-09-13-comune-apri-geoserver/3.jpeg
+image: /assets/article_images/2017-09-13-comune-apri-geoserver/baby-tears-small-child-sad-47090.jpeg
 ---
 
 In questi giorni mi sono documentato su quelli che sono i sistemi di informazione geografica (detti [GIS](https://it.wikipedia.org/wiki/Geographic_information_system)) in particolare su quanto utilizzato dal mio [Comune di Prato](http://www.comune.prato.it/) per la gestione delle informazioni "georiferite" e su ciò che è a disposizione di noi cittadini un po’ curiosi che tanto amiamo i dati. Iniziamo col dire che per me motivo di soddisfazione che il mio comune abbia un geoportale (così si chiamano i portali dove sono memorizzate le informazioni di tipo geografico) perché significa che (negli anni) il comune si è dotato di strumenti e processi per digitalizzare dati utili. Potete verificare l'esistenza del geoportale tramite l’interfaccia web del server [qui](http://geoserver.comune.prato.it/geoserver/web/). 
@@ -35,7 +35,7 @@ Il punto è QUALI DATI si possono esportare con TOLOMEO dei dati memorizzati sul
 
 **Si capisce dalla descrizione sopra che i veri dati sono i WFS e non i WMS. E’ quindi con questi dati che si potrebbe creare un reale servizio o fare un’analisi accurata dei dati storicamente prodotti e georiferiti dal Comune.**
 
-**Come si fa allora per usare i "completi" ?  Risposta: attualmente non si può. Motivo? Il motivo di questa mancata accessibilità è il fatto che il geoportale comunale non consente l’accesso libero in lettura ai dati WFS. Se si prova ad accedere dal geoportale ad uno di questi dataset la schermata che si ottiene è ****[quest**a](http://geoserver.comune.prato.it/geoserver/comunepo/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=comunepo:cciaa_esercizi_commerciali_divisione_03&maxFeatures=50&outputFormat=csv)**. Dal una rapida ispezione del geoportale pare esserci un login che impedisce la possibilità di ulteriore accesso al dato.**
+**Come si fa allora per usare i "completi" ?  Risposta: attualmente non si può. Motivo? Il motivo di questa mancata accessibilità è il fatto che il geoportale comunale non consente l’accesso libero in lettura ai dati WFS. Se si prova ad accedere dal geoportale ad uno di questi dataset la schermata che si ottiene è [questa](http://geoserver.comune.prato.it/geoserver/comunepo/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=comunepo:cciaa_esercizi_commerciali_divisione_03&maxFeatures=50&outputFormat=csv)**. Dal una rapida ispezione del geoportale pare esserci un login che impedisce la possibilità di ulteriore accesso al dato.**
 
-**Leggo di alcune iniziative (come questa all’interno di ****[Prato Al Futur**o](http://www.pratoalfuturo.it/partecipa/il-map-contest/)**) di partecipazione civica che l’attuale amministrazione ha deciso di lanciare basate su MAPPE su cui i cittadini potrebbero effettivamente proporre come si immaginano il loro quartiere nel futuro e come lo vedono oggi. La liberazione di questi dati potrebbe effettivamente facilitare molte di queste iniziative e simili oltre a consentire tutta una serie di servizi basati sulla georeferenziazione.**
+Leggo di alcune iniziative come questa all’interno di [Prato Al Futuro](http://www.pratoalfuturo.it/partecipa/il-map-contest/) di partecipazione civica che l’attuale amministrazione ha deciso di lanciare basate su MAPPE su cui i cittadini potrebbero effettivamente proporre come si immaginano il loro quartiere nel futuro e come lo vedono oggi. La liberazione di questi dati potrebbe effettivamente facilitare molte di queste iniziative e simili oltre a consentire tutta una serie di servizi basati sulla georeferenziazione.
 
