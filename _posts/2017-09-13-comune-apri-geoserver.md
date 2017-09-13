@@ -25,7 +25,7 @@ Il Comune di Prato si è dotato di un applicativo chiamato Tolomeo che si integr
 
 In questi giorni ho usato Tolomeo per capire come possa essere utile ed in effetti ha un sé una funzionalità che consente l’export di alcuni dati e il loro riuso. In particolare ho realizzato due mappe con questi dati ovvero la [rete fognaria di Prato](https://iltempe.github.io/fogne/index) e i confini per [il catasto dei beni immobili](https://iltempe.github.io/mappa_base_immobili/index#11/43.8900/11.1752).
 
-<iframe src="https://iltempe.github.io/mappa_base_immobili/index.html#10/43.8436/11.1830"></iframe>
+<iframe src="https://iltempe.github.io/mappa_base_immobili/index.html#10/43.8436/11.1830">width="100%" height="100%"</iframe>
 
 Il punto è QUALI DATI si possono esportare con TOLOMEO dei dati memorizzati sul geoportale del comune? Di fatto se ne possono esportare solo una piccolissima porzione ovvero i dati in formato [WMS](http://mappe.comune.prato.it/html/wms/). E qui entriamo nel tecnicismo ma è sostanziale entrarci e capire il punto. I dati cartografici distribuiti sul web possono normalmente attenersi a questi due standard:
 
