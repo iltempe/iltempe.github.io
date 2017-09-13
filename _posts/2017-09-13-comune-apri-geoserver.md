@@ -25,15 +25,17 @@ Il Comune di Prato si è dotato di un applicativo chiamato Tolomeo che si integr
 
 In questi giorni ho usato Tolomeo per capire come possa essere utile ed in effetti ha un sé una funzionalità che consente l’export di alcuni dati e il loro riuso. In particolare ho realizzato due mappe con questi dati ovvero la [rete fognaria di Prato](https://iltempe.github.io/fogne/index) e i confini per [il catasto dei beni immobili](https://iltempe.github.io/mappa_base_immobili/index#11/43.8900/11.1752).
 
-<iframe src="https://iltempe.github.io/mappa_base_immobili/index.html#10/43.8436/11.1830">width="100%" height="100%"</iframe>
+![mappa "immagine "rete fognaria](/assets/article_images/2017-09-13-comune-apri-geoserver/image_2.png)
 
 Il punto è QUALI DATI si possono esportare con TOLOMEO dei dati memorizzati sul geoportale del comune? Di fatto se ne possono esportare solo una piccolissima porzione ovvero i dati in formato [WMS](http://mappe.comune.prato.it/html/wms/). E qui entriamo nel tecnicismo ma è sostanziale entrarci e capire il punto. I dati cartografici distribuiti sul web possono normalmente attenersi a questi due standard:
 
-Lo Standard **Web Map Service** (WMS) fornisce una semplice interfaccia HTTP per richiedere immagini di mappe da uno o più server distribuiti in Internet. Una richiesta WMS definisce quali sono i layer geografici e l'area di interesse da processare. La risposta alla richiesta è una o più immagini di mappa (nel formato JPEG, PNG, ...) che può essere mostrata in un browser Internet. In effetti se visualizzate le mappe che ho realizzato sono semplici IMMAGINI su mappa e niente di più...cioè i dati veri non ci sono.
+Lo Standard **Web Map Service** (WMS) fornisce una semplice interfaccia HTTP per richiedere immagini di mappe da uno o più server distribuiti in Internet. Una richiesta WMS definisce quali sono i layer geografici e l'area di interesse da processare. La risposta alla richiesta è una o più immagini di mappa (nel formato JPEG, PNG, ...) che può essere mostrata in un browser Internet.
 
 Lo Standard **Web Feature Service** (WFS) fornisce invece una semplice interfaccia HTTP per richiedere direttamente oggetti geografici (e non immagini di mappe) da uno o più server distribuiti in Internet. I meccanismi di richiesta e risposta sono simili al WMS, con la differenza che non vengono restituite immagini, bensì le descrizioni dei singoli oggetti spaziali contenuti all'interno dell'area di interesse da processare (ovvero coordinate spaziali ed eventuali attributi alfanumerici).
 
-**Si capisce dalla descrizione sopra che i veri dati sono i WFS e non i WMS. E’ quindi con questi dati che si potrebbe creare un reale servizio o fare un’analisi accurata dei dati storicamente prodotti e georiferiti dal Comune.**
+**Si capisce dalla descrizione sopra che i veri dati sono i WFS e non i WMS. In effetti se visualizzate le mappe che ho realizzato sono semplici IMMAGINI su mappa e niente di più...cioè i dati veri non ci sono. E’ quindi con questi dati che si potrebbe creare un reale servizio o fare un’analisi accurata dei dati storicamente prodotti e georiferiti dal Comune.**
+
+![mappa "immagine" confini del catasto immobili](/assets/article_images/2017-09-13-comune-apri-geoserver/image_3.png)
 
 **Come si fa allora per usare i "completi" ?  Risposta: attualmente non si può. Il Motivo? Il motivo di questa mancata accessibilità è il fatto che il geoportale comunale non consente l’accesso libero in lettura ai dati WFS. Se si prova ad accedere dal geoportale ad uno di questi dataset la schermata che si ottiene è [questa](http://geoserver.comune.prato.it/geoserver/comunepo/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=comunepo:cciaa_esercizi_commerciali_divisione_03&maxFeatures=50&outputFormat=csv)**.
 
