@@ -37,8 +37,12 @@ Lo Standard **Web Feature Service** (WFS) fornisce invece una semplice interfacc
 
 ![mappa "immagine" confini del catasto immobili](/assets/article_images/2017-09-13-comune-apri-geoserver/image_3.png)
 
-**Come si fa allora per usare i "completi" ?  Risposta: attualmente non si può. Il Motivo? Il motivo di questa mancata accessibilità è il fatto che il geoportale comunale non consente l’accesso libero in lettura ai dati WFS. Se si prova ad accedere dal geoportale ad uno di questi dataset la schermata che si ottiene è [questa](http://geoserver.comune.prato.it/geoserver/comunepo/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=comunepo:cciaa_esercizi_commerciali_divisione_03&maxFeatures=50&outputFormat=csv)**.
+**Come si fa allora per usare i "completi" ?  Risposta: attualmente non si può. Il Motivo? Il motivo di questa mancata accessibilità è il fatto che il geoportale comunale non consente l’accesso libero in lettura ai dati WFS. Se si prova ad accedere dal geoportale ad uno di questi dataset la schermata che si ottiene è ad oggi la seguente:**
 
-Dal una rapida ispezione del geoportale pare esserci un login che impedisce la possibilità di ulteriore accesso al dato.**
+![mancato accesso ai dati](/assets/article_images/2017-09-13-comune-apri-geoserver/image_5.png)
 
-Leggo di alcune iniziative come questa all’interno di [Prato Al Futuro](http://www.pratoalfuturo.it/partecipa/il-map-contest/) di partecipazione civica che l’attuale amministrazione ha deciso di lanciare basate su MAPPE su cui i cittadini potrebbero effettivamente proporre come si immaginano il loro quartiere nel futuro e come lo vedono oggi. La liberazione di questi dati potrebbe effettivamente facilitare molte di queste iniziative e simili oltre a consentire tutta una serie di servizi basati sulla georeferenziazione.
+Dal una rapida ispezione del geoportale pare esserci un login che impedisce la possibilità di ulteriore accesso al dato.
+
+**Questo non è accettabile!**
+
+Leggo di alcune iniziative come questa all’interno di [Prato Al Futuro](http://www.pratoalfuturo.it/partecipa/il-map-contest/) di partecipazione civica che l’attuale amministrazione ha deciso di lanciare basate su MAPPE su cui i cittadini potrebbero effettivamente proporre come si immaginano il loro quartiere nel futuro e come lo vedono oggi. La liberazione di questi dati potrebbe effettivamente facilitare molte di queste iniziative e simili oltre a consentire lo sviluppo di tutta una serie di servizi basati sulla georeferenziazione in città. Chi può faccia qualcosa, così non va. Grazie.
