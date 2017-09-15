@@ -15,9 +15,9 @@ Dal 9 Settembre scorso infatti l'italia è stata soggetta a condizioni meteo avv
 
 Detto questo, dell'[alluvione di Livorno](http://www.ilpost.it/2017/09/11/ci-sono-ancora-due-dispersi-per-le-alluvioni-a-livorno/) ci restano alcune preziose informazioni che rilascia il servizio di Copernicus [Emergency Management Service](http://emergency.copernicus.eu/mapping/) ormai a noi molto caro. Trattasi di un servizio del sistema di osservazione satellitare [Copernicus](http://emergency.copernicus.eu/mapping/ems/what-copernicus) con focus specifico sulle emergenze del pianeta terra. Nel caso specifico qualche giorno fa EMS ha rilasciato su [questa pagina](http://emergency.copernicus.eu/mapping/list-of-components/EMSR238) tutti i dati elaborati sull'alluvione registrato in Toscana.
 
-L'attività di registrazione delle foto satellitari è descritta nel report di Copernicus che indica in quante aree è stata suddivisa l'area monitorata. Nel caso di livorno sono 4 aree come si vede in figura.
-
 ![report dell'attività di EMS](/assets/article_images/2017-09-15-alluvione-di-livorno/ems.jpg)
+
+L'attività di registrazione delle foto satellitari è descritta nel report di Copernicus che indica in quante aree è stata suddivisa l'area monitorata. Nel caso di questa emergenza sono 4 aree come si vede in figura sopra.
 
 Una delle analisi che si possono fare tramite i dati è ad esempio vedere su mappa quanto sia stata estesa l'area allagata. Dalla [mappa che ho realizzato](https://iltempe.github.io/livorno_flood/index#12/43.6289/10.3605) si può valutare tutto questo in dettaglio.
 
