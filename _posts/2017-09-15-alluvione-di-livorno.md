@@ -17,7 +17,7 @@ Detto questo, dell'[alluvione di Livorno](http://www.ilpost.it/2017/09/11/ci-son
 
 L'attività di registrazione delle foto satellitari è descritta nel report di Copernicus che indica in quante aree è stata suddivisa l'area monitorata. Nel caso di livorno sono 4 aree come si vede in figura.
 
-[report dell'attività di EMS](/assets/article_images/2017-09-15-alluvione-di-livorno/ems.jpg)
+![report dell'attività di EMS](/assets/article_images/2017-09-15-alluvione-di-livorno/ems.jpg)
 
 Una delle analisi che si possono fare tramite i dati è ad esempio vedere su mappa quanto sia stata estesa l'area allagata. Dalla [mappa che ho realizzato](https://iltempe.github.io/livorno_flood/index#12/43.6289/10.3605) si può valutare tutto questo in dettaglio.
 
