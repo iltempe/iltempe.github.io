@@ -7,7 +7,7 @@ tags:
   - opensource
   - civic hacking
   - emergenze
-image: /assets/article_images/2017-09-21-toolbox-per-ems/3.jpg
+image: /assets/article_images/2017-09-21-toolbox-per-ems/sfondo.jpg
 ---
 
 Dopo avere creato [questa mappa](https://iltempe.github.io/blog/2017/09/14/alluvione-di-livorno.html) ed aver usato i dati satellitari del servizio [EMS di Copernicus](http://emergency.copernicus.eu/mapping/) è emersa l'esigenza di avere qualche strumento software in più che consenta e faciliti l'uso di questi dati anche per progetti più complessi.
@@ -22,7 +22,11 @@ Nella pagina dell'emergenza si possono visualizzare quali siano le aree geografi
 
 ![i vector package di un'emergenza](/assets/article_images/2017-09-21-toolbox-per-ems/2.png)
 
-In questo momento vi trovate due script (speriamo col tempo di poterli aumentare o migliorare se ci fossero altre esigenze):
+Ogni file vettoriale ZIP contenente i dati, normalmente presenta questo tipo di file al suo interno. Dando un'occhiata si può capire facilmente di quali dati si ha bisono.
+
+![il tag dell'emergenza](/assets/article_images/2017-09-21-toolbox-per-ems/4.png)
+
+In questo momento nel repo trovate quindi due script (speriamo col tempo di poterli aumentare o migliorare se ci fossero altre esigenze):
 - **get_ems_zips**: per effettuare il download di tutti i file vettoriali (ZIP) presenti in una pagina di una specifica emergenza (identificata con un tag del tipo EMSRXXX). Si può usare questo file anche per fare il download di tutti i dataset di più emergenze (basterà configurare lo script con più tag così [EMSRXXX, EMSRYYY...])
 - **merge_ems_zips**: per effettuare un'operazione di merge di un set di Vector package relativi a più zone della stessa emergenza in modo da "fonderli assieme" e visualizzarli complessivamente come livelli di un'emergenza. In questo script oltre ai tag dell'emergenza vanno indicati anche i dati di interesse di cui si vuole fare il merge (tra quelli contenuti nel file .ZIP stesso)
 
