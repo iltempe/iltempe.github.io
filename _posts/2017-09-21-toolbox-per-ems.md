@@ -12,13 +12,13 @@ image: /assets/article_images/2017-09-21-toolbox-per-ems/3.jpg
 
 Dopo avere creato [questa mappa](https://iltempe.github.io/blog/2017/09/14/alluvione-di-livorno.html) ed aver usato i dati satellitari del servizio [EMS di Copernicus](http://emergency.copernicus.eu/mapping/) è emersa l'esigenza di avere qualche strumento software in più che consenta e faciliti l'uso di questi dati anche per progetti più complessi.
 
-L'idea di base è stata quella di creare un [repository su Github](https://github.com/emergenzeHack/ems_toolkit) che possa contenere nel tempo un set di script utili a chi vorrà usare i dati satellitari durante le emegenze.
+L'idea di base è stata quella di creare un [repository su Github](https://github.com/emergenzeHack/ems_toolkit) che possa contenere nel tempo un set di script utili a chi vorrà usare i dati satellitari durante le emergenze automatizzando operazioni che in alternativa si dovrebbero fare manualemnte.
 
 Come si può vedere da [questa pagina relativa alluvione di Livorno](http://emergency.copernicus.eu/mapping/list-of-components/EMSR238) i dati di Copernicus EMS sono associati ad uno specifico tag che identifica l'emergenza in modo univoco.
 
 ![il tag dell'emergenza](/assets/article_images/2017-09-21-toolbox-per-ems/1.png)
 
-Nella pagina dell'emergenza si può effettivamente visualizzare quali siano le aree geografiche in cui EMS ha suddiviso la zona interessata dall'emergenza. Queste sono le unità minime di cui potete accedere ai dati. In particolare per ogni zona si può avere accesso alle immagini satellitari in vari formati e ai dataset vettoriali (questi file sono i veri e propri dataset elaborati da EMS e sono denominati "Vector package").
+Nella pagina dell'emergenza si possono visualizzare quali siano le aree geografiche in cui EMS ha suddiviso la zona interessata dall'emergenza. Queste sono le unità minime di cui potete accedere ai dati. In particolare per ogni zona si può avere accesso alle immagini satellitari in vari formati e ai dataset vettoriali (questi file sono i veri e propri dataset elaborati da EMS e sono denominati "Vector package").
 
 ![i vector package di un'emergenza](/assets/article_images/2017-09-21-toolbox-per-ems/2.png)
 
