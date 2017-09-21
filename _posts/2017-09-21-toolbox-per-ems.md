@@ -14,7 +14,7 @@ Dopo avere creato [questa mappa](https://iltempe.github.io/blog/2017/09/14/alluv
 
 L'idea di base è stata quella di creare un [repository su Github](https://github.com/emergenzeHack/ems_toolkit) che possa contenere nel tempo un set di script utili a chi vorrà usare i dati satellitari durante le emergenze automatizzando operazioni che in alternativa si dovrebbero fare manualmente.
 
-Come si può vedere da [questa pagina relativa alluvione di Livorno](http://emergency.copernicus.eu/mapping/list-of-components/EMSR238) i dati di Copernicus EMS sono associati ad uno specifico tag che identifica l'emergenza in modo univoco.
+Come si può vedere da [questa pagina relativa all'alluvione di Livorno](http://emergency.copernicus.eu/mapping/list-of-components/EMSR238) i dati di Copernicus EMS sono associati ad uno specifico tag che identifica l'emergenza in modo univoco.
 
 ![il tag dell'emergenza](/assets/article_images/2017-09-21-toolbox-per-ems/1.png)
 
@@ -36,5 +36,5 @@ La configurazione degli script si effettua nelle prime righe rispettivamente edi
 
 Il repository è ovviamente aperto a ricevere issue e pull request per essere migliorato. che aspettate?
 
-**CREDITS**: L'[ems toolkit]((https://github.com/emergenzeHack/ems_toolkit)) è un progetto che cerca di generalizzare un nobilissimo intento che alcuni attivisti del progetto [terremotocentroitalia.info](http://www.terremotocenotroitalia.info) hanno realizzato durante i terremoti del 2016 in Italia. Un particolare grazie va ad [Andrea Borruso](https://github.com/aborruso), [Alessandro Sarretta](https://github.com/alesarrett) e [Paolo Frizzera](https://github.com/geofrizz). Il repository usato per terremoto è [questo](https://github.com/emergenzeHack/terremotocentro_geodata/tree/gh-pages/CopernicusEMS). L'[ems_toolkit](https://github.com/emergenzeHack/ems_toolkit) è rilasciato con licenza di libero riuso (MIT) e accetta pull request e issue.
+**CREDITS**: L'[ems toolkit](https://github.com/emergenzeHack/ems_toolkit) è un progetto che cerca di generalizzare un nobilissimo intento che alcuni attivisti del progetto [terremotocentroitalia.info](http://www.terremotocentroitalia.info) hanno realizzato durante i terremoti del 2016 in Italia. Un particolare grazie va ad [Andrea Borruso](https://github.com/aborruso), [Alessandro Sarretta](https://github.com/alesarrett) e [Paolo Frizzera](https://github.com/geofrizz). Il repository usato per terremoto è [questo](https://github.com/emergenzeHack/terremotocentro_geodata/tree/gh-pages/CopernicusEMS). L'[ems_toolkit](https://github.com/emergenzeHack/ems_toolkit) è rilasciato con licenza di libero riuso (MIT) e accetta pull request e issue.
 
