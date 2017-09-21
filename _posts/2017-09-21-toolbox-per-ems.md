@@ -34,8 +34,8 @@ La configurazione degli script si effettua nelle prime righe rispettivamente edi
 
 <script src="https://gist.github.com/iltempe/cf0972c32876736a887180096c2eda93.js"></script>
 
-Il repository è ovviamente aperto a ricevere issue e pull request per essere migliorato.
+Il repository è ovviamente aperto a ricevere issue e pull request per essere migliorato. che aspettate?
 
-**CREDITS**: L'[ems toolkit]((https://github.com/emergenzeHack/ems_toolkit)) è un progetto che cerca di generalizzare un nobilissimo intento che alcuni attivisti del progetto [terremotocentroitalia.info](http://www.terremotocenotroitalia.info) hanno realizzato durante i terremoti del 2016 in Italia. Un particolare grazie va ad Andrea Borruso(https://github.com/aborruso), [Alessandro Sarretta](https://github.com/alesarrett) e Paolo Frizzera
-[https://github.com/geofrizz].Il repository usato per il terremoto è [questo](https://github.com/emergenzeHack/terremotocentro_geodata/tree/gh-pages/CopernicusEMS). L'[ems_toolkit] è rilasciato con licenza di libero riuso (MIT) e accetta pull request e issue.
+**CREDITS**: L'[ems toolkit]((https://github.com/emergenzeHack/ems_toolkit)) è un progetto che cerca di generalizzare un nobilissimo intento che alcuni attivisti del progetto [terremotocentroitalia.info](http://www.terremotocenotroitalia.info) hanno realizzato durante i terremoti del 2016 in Italia. Un particolare grazie va ad [Andrea Borruso](https://github.com/aborruso), [Alessandro Sarretta](https://github.com/alesarrett) e [Paolo Frizzera]
+[https://github.com/geofrizz]. Il repository usato per terremoto è [questo](https://github.com/emergenzeHack/terremotocentro_geodata/tree/gh-pages/CopernicusEMS). L'[ems_toolkit](https://github.com/emergenzeHack/ems_toolkit) è rilasciato con licenza di libero riuso (MIT) e accetta pull request e issue.
 
