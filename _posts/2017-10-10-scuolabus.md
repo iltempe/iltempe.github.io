@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Come mai occorre trasparenza sui servizi di scuolabus"
-date:   2017-10-10 00:00:00
+date:   2017-10-10 10:00:00
 categories: blog
 tags:
   - opendata
