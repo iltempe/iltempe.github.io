@@ -8,7 +8,7 @@ tags:
 image: /assets/article_images/2017-10-10-scuolabus/scuolabus.jpeg
 ---
 
-Vi siete mai chiesti quanti scuolabus passano ogni giorno nella vostra città, quali itinerari e quali fermate fanno e di quali scuole sono a servizio? Vi siete mai documentati su dove il vostro Comune pubblichi queste informazioni? Molti non lo fanno semplicemente perchè a scuola se ne discute, perchè in generale "si sa" che in una zona passa lo scuolabus e perchè qualcun’altro ce ne ha parlato.
+Vi siete mai chiesti quanti scuolabus passano ogni giorno nella vostra città, quali itinerari e quali fermate fanno e di quali scuole sono a servizio? Vi siete mai documentati su dove il vostro Comune pubblichi queste informazioni? Molti non si documentano semplicemente perchè se ne discute a scuola con genitori e insegnanti, perchè in generale "si sa" che in una certa zona passa lo scuolabus e perchè qualcun’altro ce ne ha parlato.
 
 Se i dati non esistono viene da pensare che il servizio di scuolabus non esista. Nel mio comune, nonostante i dati non ci siano, lo scuolabus c’è. O meglio, c’è ma non sempre. Io e mia moglie abbiamo deciso di usarlo per far accompagnare mio figlio Alberto alla sua scuola iscrivendolo al servizio di sola andata.
 
