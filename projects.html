@@ -1,0 +1,12 @@
+---
+layout: page
+title: Progetti
+permalink: /projects/
+---
+
+{% for project in site.data.progetti %}
+      <li>
+      <a href="{{ project.url }}">{{project.progetto}}</a>
+      <p>{{project.descrizione}}</p>
+    </li>
+{% endfor %}
