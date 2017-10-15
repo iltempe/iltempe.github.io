@@ -36,7 +36,7 @@ Non certo perchè i dipendenti della PA debbano iniziare a programmare. Avevo bi
 
 Naturalmente Github è solo uno strumento, non una cultura. E non fingerò che tutti lo abbiano amato. Tuttavia Github ha mostrato un sacco di potenzialità come qualcosa da usare con "i miei colleghi di PA in futuro". Non lo si sarebbe mai capito senza provarlo. Andando avanti sarò curioso di vedere se la mia ipotesi era giusta  - ed oltre ad essere uno strumento Github può forse cambiare davvero il modo in cui i dipendenti della PA partecipando a progetti dove occorre tecnologia. Se possiamo sostenere questo tipo di collaborazione, curiosità ed interrogativi, penso che tutti i nostri progetti verranno fatti meglio.
 
-(...)
+scritto da [Jesse Biroscak](https://twitter.com/jbiroscak)
 
 
 
