@@ -24,7 +24,7 @@ Prima di questa scadenza non avevo mai considerato questa possibilità, perchè 
 ## Perchè volere che Github sia affidato a personale non del reparto di IT del governo?
 Non certo perchè i dipendenti della PA debbano iniziare a programmare. Avevo bisogno di loro su Github perchè lì era il codice ed era più efficente per loro controllare il contenuto stesso piuttosto che usare me come intermediario. Solo per un fatto pragmatico quindi. Ma dove aver visto la loro esperienza con questo strumento, ci sono stati altri fatti che ho notato nel modo in cui hanno iniziato a lavorare.
 
-# Cosa ho visto:
+# Cosa ho osservato:
 
 - Github rappresenta la capacità di provare a sviluppare un progetto e metterlo in discussione. Il personale che lo usa può modificare e annullare le modifiche fatte ad un lavoro senza conseguenze negative. Lavoravano in un modo inedito, ma potevano sempre vedere "cosa sarebbe accaduto alla fine". Questo non è il tradizionale modo di lavorare delle politiche di governo specie nel fare i bilanci o i programmi. Alcune persone provano a cambiare questo modo di fare ma è ancora molto difficile.
 - Imparare Github è stata una grande prova di fiducia ed ha posto un po' di mistero nel processo di lavoro. Riuscire a far provare ad un pubblico amministratore significa far provare loro qualcosa di nuovo e sconosciuto. Queste persone potrebbero non aver mai pensato di lavorare con uno sviluppatore di software direttamente sul codice del sito web. Ma poi lo hanno fatto e tutta la fiducia che hanno messo in quell'azione li può adesso aiutare a provare una nuova idea o strumento in futuro e quindi rendere più pratico lo sviluppo del loro prossimo progetto.
