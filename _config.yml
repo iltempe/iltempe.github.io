@@ -41,6 +41,13 @@ social:
     share_title: ?text=
     share_link: "&amp;url="
 
+  - icon:	telegram
+    url:	https://t.me/iltempe
+    desc: Follow me on Telegram
+    share_url:
+    share_title:
+    share_link:
+
   - icon:	facebook
     url:	https://www.facebook.com/matteotempestin/
     desc: Connect with me facebook
