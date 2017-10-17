@@ -23,8 +23,8 @@ Io ho proprio recentemente provato Github con gli impiegati pubblici per la prim
 
 Prima di questa scadenza non avevo mai considerato questa possibilità, perchè loro non sapevano come programmare. Ma, una volta provato, sono rimasto piacevoltamente colpito di quanto funzionasse bene. Guardando indietro, avrei voluto aver insegnato loro molto prima e sicuramente, andando avanti, cercherò di riusarlo per altri progetti.
 
-## Perchè volere che Github sia affidato a personale non del reparto di IT del governo?
-Non certo perchè i dipendenti della PA debbano iniziare a programmare. Avevo bisogno di loro su Github perchè lì era il codice ed era più efficente per loro controllare il contenuto stesso piuttosto che usare me come intermediario. Solo per un fatto pragmatico quindi. Ma dove aver visto la loro esperienza con questo strumento, ci sono stati altri fatti che ho notato nel modo in cui hanno iniziato a lavorare.
+## Perchè affidare Github a personale "non IT" della PA?
+Non certo perchè i dipendenti della PA debbano iniziare a programmare. Avevo bisogno di loro su Github perchè lì era il codice ed era più efficente per loro controllare il contenuto stesso piuttosto che usare me come intermediario. Solo per un fatto pragmatico quindi. Ma dopo aver visto la loro esperienza con questo strumento, ci sono stati altri fatti che ho notato nel modo in cui hanno iniziato a lavorare.
 
 # Cosa ho osservato:
 
