@@ -14,7 +14,7 @@ Questo post è una traduzione in italiano di [questo post](https://medium.com/co
 
 -----
 
-Forse usi Github nel tuo lavoro o ai raduni delle brigate di civic hacker, ma sapevi che è anche un grande strumento per lavorare per gli impiegati pubblici? Prima che tu sorrida e dica che Github e i funzionari pubblici non tecnici non possono essere un buon mix, lasciamo spiegare il punto.
+Forse usi Github nel tuo lavoro o ai raduni delle brigate di civic hacker, ma sapevi che è anche un grande strumento per lavorare per gli impiegati pubblici? Prima che tu sorrida e dica che Github e i funzionari pubblici non tecnici non possono essere un buon mix, lasciami spiegare il punto.
 
 Io ho proprio recentemente provato Github con gli impiegati pubblici per la prima volta, al di là delle necessità. Era durante un grande progetto in cui si provava a gestire tonnellate di tabelle di dati sui budget e supportare trasformazioni da un libro in tre volumi per andare verso [un sito web](https://budget.boston.gov/). Verosimilmente, c'erano molti dei contenuti che noi avevamo bisogno di correggere o di rilavorare durante il periodo dei 5 giorni prima del lancio e il mio sviluppatore software ed io non fare tutti gli aggiornamenti in una sola volta. Decisi di insegnare Github allo staff del Dipartimento Pubblico con cui stavo lavorando per aumentare la nostra capacità.
 
