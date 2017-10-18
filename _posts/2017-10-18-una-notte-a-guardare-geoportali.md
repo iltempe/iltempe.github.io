@@ -17,7 +17,7 @@ image: /assets/article_images/2017-10-18-una-notte-a-guardare-geoportali/pexels-
 
 Il web consente di fare partire effetti domino inaspettati. Per fortuna delle volte sono proprio belli. L’onda di oggi l’ha sollevata [Totò](https://www.facebook.com/photo.php?fbid=10215055066958956&set=a.4809453763102.2189843.1498961577&type=3&theater), segnalando che il Geoportale della Regione Siciliana (anzi uno dei due geoportali) fosse in manutenzione.
 
-![image alt text](/assets/article_images/2017-10-18-una-notte-a-guardare-geoportali/image_0.png)
+![](/assets/article_images/2017-10-18-una-notte-a-guardare-geoportali/image_0.png)
 
 Andrea ha [fatto notare](https://www.facebook.com/pigreco314/posts/10215055071039058?comment_id=10215055428087984&comment_tracking=%7B"tn"%3A"R9"%7D) allora che si tratta di un servizio che nell’ultimo mese è stato spento per quasi 15 giorni.
 
@@ -35,7 +35,7 @@ A seguire un elenco.
 
 Il secondo è down per la metà del tempo (almeno negli ultimi 30 giorni).
 
-![image alt text](/assets/article_images/2017-10-18-una-notte-a-guardare-geoportali/image_1.png)
+![](/assets/article_images/2017-10-18-una-notte-a-guardare-geoportali/image_1.png)
 
 ## Geoportale di Prato
 
@@ -43,37 +43,37 @@ Matteo segnala la situazione di Prato, comune che ha un geoportale con circa 530
 
  
 
-![image alt text](/assets/article_images/2017-10-18-una-notte-a-guardare-geoportali/image_2.png)
+![](/assets/article_images/2017-10-18-una-notte-a-guardare-geoportali/image_2.png)
 
 Attualmente se si prova ad accedere ad un dataset questo è l’errore che si genera.
 
-![image alt text](/assets/article_images/2017-10-18-una-notte-a-guardare-geoportali/image_3.png)
+![](/assets/article_images/2017-10-18-una-notte-a-guardare-geoportali/image_3.png)
 
 ## Regione Calabria
 
-![image alt text](/assets/article_images/2017-10-18-una-notte-a-guardare-geoportali/image_4.png)
+![](/assets/article_images/2017-10-18-una-notte-a-guardare-geoportali/image_4.png)
 
 Il Geoportale della Regione Calabria, che negli ultimi mesi ha cambiato aspetto attraverso un’interfaccia più gradevole alla vista, per la consultazione della propria banca dati geografica mette a disposizione diversi servizi (http://geoportale.regione.calabria.it/servizi), molti dei quali però sono inaccessibili.
 
 Quello relativo al visualizzatore cartografico (WebGIS CTR:[ http://pr5sit.regione.calabria.it/mapbuilderWeb/browser.noSec](http://pr5sit.regione.calabria.it/mapbuilderWeb/browser.noSec)) per la consultazione della Carta Tecnica Regionale molto spesso non è disponibile e provando ad accedervi risponde come sotto. Anzi, non risponde :-(
 
-![image alt text](/assets/article_images/2017-10-18-una-notte-a-guardare-geoportali/image_5.png)
+![](/assets/article_images/2017-10-18-una-notte-a-guardare-geoportali/image_5.png)
 
 Stesso messaggio si ottiene provando ad accedere sia al servizio WebGIS che a a quello relativo alla Rete planimetrica.
 
 Il Navigatore SIRV e quello FotoCartografico non consentono un accesso libero alle informazioni presenti, viene richiesta l’autenticazione per poter consultare i dati. Entrambi i servizi dovrebbero fornire un "*importante strumento a supporto *del monitoraggio dei beni e dei vincoli che esistono su di essi" (copio ed incollo cosa viene riportato sul sito del geoportale stesso).
 
-![image alt text](/assets/article_images/2017-10-18-una-notte-a-guardare-geoportali/image_6.png)
+![](/assets/article_images/2017-10-18-una-notte-a-guardare-geoportali/image_6.png)
 
 La consultazione della Carta dei luoghi, raggiungibile dal medesimo servizio, non è visibile nonostante il framework utilizzato come visualizzatore viene caricato correttamente (senza errori) dal browser. L’accesso al servizio porta ad una pagina con molti strumenti ma senza dati :-(
 
-![image alt text](/assets/article_images/2017-10-18-una-notte-a-guardare-geoportali/image_7.png)
+![](/assets/article_images/2017-10-18-una-notte-a-guardare-geoportali/image_7.png)
 
 Note finali (di cui una positiva), si riscontrano spesso disservizi e dati non accessibili ed a parte le diverse tecnologie software utilizzate per la creazione del servizio, nel geoportale è carente l’accessibilità al dato attraverso servizi Web (WMS, WFS, WCS etc), ricordiamo che tali servizi sono fondamentali per garantire l’interoperabilità delle informazioni che si vogliono rendere disponibili. 
 
 La nota positiva è che il Geoportale della Regione Calabria mette a disposizione una serie di dataset (in realtà non tantissimi) con licenza IODL e liberamente scaricabili.
 
-![image alt text](/assets/article_images/2017-10-18-una-notte-a-guardare-geoportali/image_8.png)
+![](/assets/article_images/2017-10-18-una-notte-a-guardare-geoportali/image_8.png)
 
 ## Regione Emilia Romagna, Catalogo Moka
 
@@ -81,15 +81,15 @@ Il catalogo Moka della Regione Emilia Romagna [http://www.mokagis.it/html/applic
 
 Nei fatti è una barriera di ingresso.
 
-![image alt text](/assets/article_images/2017-10-18-una-notte-a-guardare-geoportali/image_9.png)
+![](/assets/article_images/2017-10-18-una-notte-a-guardare-geoportali/image_9.png)
 
 ## Regione Molise
 
-![image alt text](/assets/article_images/2017-10-18-una-notte-a-guardare-geoportali/image_10.png)
+![](/assets/article_images/2017-10-18-una-notte-a-guardare-geoportali/image_10.png)
 
 Il portale cartografico regionale del Molise [http://cartografia.regione.molise.it](http://cartografia.regione.molise.it) va in *timeout* :(
 
-![image alt text](/assets/article_images/2017-10-18-una-notte-a-guardare-geoportali/image_11.png)
+![](/assets/article_images/2017-10-18-una-notte-a-guardare-geoportali/image_11.png)
 
 ## Regione Campania
 
@@ -99,11 +99,11 @@ Sul sistema informativo territoriale campano si legge:
 
 Dopo - anche se questa premessa non è incoraggiante - si fa click su  Web GIS [http://sit.regione.campania.it/portal/portal/default/Cartografia/](http://sit.regione.campania.it/portal/portal/default/Cartografia/) e si ottiene l’errore di sotto.
 
-![image alt text](/assets/article_images/2017-10-18-una-notte-a-guardare-geoportali/image_12.png)
+![](/assets/article_images/2017-10-18-una-notte-a-guardare-geoportali/image_12.png)
 
 E anche la ricerca dei Metadati porta ad una pagina di errore.
 
-![image alt text](/assets/article_images/2017-10-18-una-notte-a-guardare-geoportali/image_13.png)
+![](/assets/article_images/2017-10-18-una-notte-a-guardare-geoportali/image_13.png)
 
 In extremis, [Massimiliano Moraca](https://www.facebook.com/pigreco314/posts/10215055071039058?comment_id=10215055735095659&reply_comment_id=10215055758896254), ci informa che la Regione ha un nuovo SIT, ma è stata dura a scovarlo, solo dopo avere inserito nella magica casella di testo di Google la frase "sit2 geoportale campania" è apparso il nuovo geoportale regionale.
 
