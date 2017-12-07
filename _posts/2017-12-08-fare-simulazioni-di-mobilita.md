@@ -28,15 +28,15 @@ Il metodo che vado ad illustrarvi è sintetizzato in questo script bash che ho c
 
 <script src="https://gist.github.com/iltempe/a549dd70193f92bc3a22f64bf6cd4d75.js"></script>
 
-In estrema sintesi quello che fa lo script è questo (nei commenti trovate tutti i link di riferimento per capire ogni comando cosa è e quali varianti può avere):
+In sintesi quello che fa lo script è questo (nei commenti trovate tutti i link di riferimento per capire ogni comando cosa è e quali varianti può avere):
 
-- Scaricare i dati da OpenStreetMaps in formato .osm dell'area di vostro interesse
+- Scaricare i dati da OpenStreetMap in formato .osm dell'area di vostro interesse
 - Generare dai dati Openstreetmap il file contenente la rete delle strade compatibile con il formato di SUMO
 - Aggiungere eventuali informazioni addizionali da visuazzare durante la simulazione (informazioni relative al paesaggio)
 - Creare il file dei veicoli e delle loro rotte
 - Lanciare la simulazione tramite un file di configurazione
 
-Sotto un esempio di quello che viene fuori, i dati di partenza delle mappe sono concessi da [Openstreetmap](www.openstreetmap..org).
+Sotto un esempio di quello che viene fuori, i dati di partenza delle mappe sono concessi da [Openstreetmap](www.openstreetmap.org). Il repository su cui ho fatto questo esperimento è al solito su un mio [repo Github](https://github.com/iltempe/osmosi).
 
 ![](https://github.com/iltempe/osmosi/blob/master/sumo/galciana/dic-07-2017%2022-32-14.gif?raw=true)
 ![](https://github.com/iltempe/osmosi/blob/master/sumo/galciana/dic-07-2017%2021-45-04.gif?raw=true)
