@@ -24,7 +24,9 @@ Oltre ad un utilizzo manuale (che non sottovaluterei perchè consente di disegna
 
 Sumo, semplificando molto, necessita come input di due file: uno contenente i dati sulle strade percorribili (.net.xml) ed uno contenente i dati sul tipo di traffico che si vuol far muovere su quella rete stradale (.rou.xml).
 
-Il metodo che vado ad illustrarvi è sintetizzato in questo script bash che ho creato, studiando lo strumento ed il suo wiki, per visualizzare qualche simulazione sulla  frazione di Prato nella quale abito (Galciana) per vedere quali fossero i punti "caldi" del mio paese in termini di traffico (nel mio caso ho considerato semplicemente autoveicoli).
+![possibili usi di SUMO](https://github.com/iltempe/osmosi/blob/master/sumo/galciana/Image008.gif?raw=true)
+
+Il metodo che vado ad illustrarvi è sintetizzato in questo script bash che ho creato, studiando lo strumento ed il suo wiki, per visualizzare qualche simulazione sulla  frazione di Prato nella quale abito (Galciana) per vedere quali fossero i punti "caldi" del mio paese in termini di traffico (nel mio caso ho considerato semplicemente autoveicoli). SUMO ha già un set di tool e script per facilitare l'integrazione con i formati dati di Openstreetmap.
 
 <script src="https://gist.github.com/iltempe/a549dd70193f92bc3a22f64bf6cd4d75.js"></script>
 
