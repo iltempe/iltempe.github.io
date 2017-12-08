@@ -16,7 +16,7 @@ Progettare come muoversi mi ha sempre affascinato. Non a caso il mio mestiere di
 
 A parte quindi questo spiegone teorico introduttivo, è interessante scoprire che ci sono strumenti che ci permettono di fare questo tipo di analisi anche in casa con un computer, una connessione internet un po' di voglia di programmare e poco altro.
 
-Ho scoperto infatti l'esistenza del simulatore [SUMO](http://sumo.dlr.de/wiki/Simulation_of_Urban_MObility_-_Wiki) , un software opensource che consente di disegnare appunto scenari di viabilità urbani visualizzando cosa accade quando dei veicoli si muovono in certe infrastrutture. L'applicazione ha un suo wiki molto completo che vi invito a visitare, la si può installare su Windows, su Linux o su Mac (io ho un Mac e per farlo ho seguito quanto scritto nel wiki e ho creato [questo script](https://github.com/iltempe/osmosi/blob/master/sumo/install_sumo.sh)).
+Ho scoperto infatti l'esistenza del simulatore [SUMO](http://sumo.dlr.de/wiki/Simulation_of_Urban_MObility_-_Wiki) , un software opensource che consente di disegnare appunto scenari di viabilità urbani visualizzando cosa accade quando dei veicoli si muovono in certe infrastrutture. L'applicazione ha un suo wiki molto completo che vi invito a visitare, la si può installare su Windows, su Linux o su Mac (io ho un Mac e per farlo ho seguito quanto scritto nel wiki e ho creato [questo script](https://github.com/iltempe/osmosi/blob/master/sumo/install_sumo.sh)). [Qui](https://github.com/DLR-TS/sumo) trovate invece il codice sorgente e la comunità di sviluppatori.
 
 ![l'interfaccia di SUMO](https://raw.githubusercontent.com/iltempe/osmosi/master/sumo/galciana/Schermata%202017-12-07%20alle%2022.38.03.png)
 
