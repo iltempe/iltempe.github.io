@@ -32,6 +32,7 @@ Il metodo che vado ad illustrarvi è sintetizzato in questo script bash che ho c
 
 ![Galciana su OpenStreetMap](/assets/article_images/2017-12-08-fare-simulazioni-di-mobilita/map.png)
 
+Quindi, dopo aver installato SUMO, createvi una folder di lavoro dove metterete questo script ed i file di lavoro necessari. la mia folder la trovate [qui](https://github.com/iltempe/osmosi/tree/master/sumo/galciana).
 In sintesi quello che fa lo script è questo (nei commenti allo script trovate alcuni link di riferimento per capire ogni comando cosa è e quali varianti può avere):
 
 - Scaricare i dati da OpenStreetMap in formato .osm dell'area di vostro interesse. E' possibile farlo direttamente da OpenStreetMap.org usando la funzione di esportazione o con qualche script automatico (io ho fatto manualmente)
