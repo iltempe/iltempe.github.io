@@ -27,8 +27,8 @@ dove la prima riga rappresenta l'ID di Copernicus dell'emergenza da analizzare (
 
 Compilato il conf.csv fate un run del file con un'instruzione del tipo 'python ems.py' e la "macchina" si mette in moto scaricandovi tutti i dati dell'emergenza e fondendoli assieme. Al termine dello script nella cartella EMSR260_merged troverete un file EMSR260_observed_event_a_merged.shp che contiene l'area dell'alluvione.
 
-La mappa che ne risulta è [qui](https://iltempe.github.io/flood_dic_2017_nordita/) ed è ottenuta tramite QGIS con il layer ottenuto dallo script precendete e il plugin QGIS [qgis2leaf](https://github.com/geolicious/qgis2leaf).
-I dati di Copernicus sono tutt'ora in aggiornamento quindi si potrebbero aggiungere ulteriori zone a quelle evidenziate attualmente.
+La mappa che ne risulta è [qui](https://iltempe.github.io/flood_dic_2017_nordita/) ed è ottenuta tramite QGIS con il layer ottenuto dallo script precedente e il plugin QGIS [qgis2leaf](https://github.com/geolicious/qgis2leaf).
+I dati elaborati da Copernicus su questo evento sono tutt'ora in aggiornamento quindi si potranno aggiungere ulteriori zone a quelle evidenziate attualmente.
 
 
 <div class="map-container">
