@@ -21,7 +21,7 @@ Mi sono quindi avvalso dell'aiuto della [EMS Toolbox](http://iltempe.github.io/b
 
 Per l'occasione ho voluto rendere la EMS Toolbox più generica aggiungedo la possibilità di configurare gli script con un file conf.csv che contiene i dati di configurazione necessari all'analisi dell'emergenza. In questo modo il codice python si può non guardare e non modificare, basta editare un file di configurazione così come sotto:
 
-<script src="https://gist.github.com/iltempe/a9af2ebf7fefa4c9bcd4b9bdadb14a03.js"></script>
+<script src="https://gist.github.com/iltempe/6e9c450cb3bb2722eb58c3c46920f698.js"></script>
 
 dove la prima riga rappresenta l'ID di Copernicus dell'emergenza da analizzare (se sono più di una si possono aggiungere separandole con un ;), la seconda riga sono i dati che si vogliono produrre e fondere tra le varie zone dell'emergenza (nel caso in esame il layer utile è quello denominato 'observed_event_a', ma ho scaricato anche gli altri layer), la terza riga rappresenta il formato delle immagini satellitari che si vogliono scaricare e la loro risoluzione.
 
