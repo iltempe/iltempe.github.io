@@ -30,4 +30,4 @@ RssTail ha molte opzioni ma nella mia implementazione:
 - inizialmente non registra nessun aggiornamento
 - ogni aggiornamento effettua un play del file allarme.mp3 tramite il lettore "afplay" che sul mio mac è invocabile da riga di comando, in caso di server Linux potete rimpazzarlo con qualche player come [questi](http://www.tuxarena.com/2011/12/10-console-music-players-for-linux/)
 
-Fatto. L'esperimento è molto semplice, ai limite del banale, ma dimostra molto bene come tramite una fonte di dati strutturata ed aggiornata si possa effettivamente inviare un feedback "sonoro" alle persone simulando così un megafono per lanciare l'allerta connesso ad internet.
+Fatto. L'esperimento è molto semplice, ai limite del banale, ma dimostra molto bene come tramite una fonte di dati strutturata ed aggiornata si possa effettivamente inviare un feedback "sonoro" alle persone simulando così un megafono connesso ad internet.
