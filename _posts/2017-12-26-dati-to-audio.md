@@ -22,7 +22,7 @@ Supponiamo di voler suonare un allarme ogni volta che Copernicus EMS invia un ag
 
 ![esempio di connessione cassa audio con Raspberry](https://www.dexterindustries.com/wp-content/uploads/2016/11/Speaker-Speaker_and_Raspberry_Pi.jpg)
 
-Con questa scheda quale potete implementare adesso il servizio di monitor dei dati in modo da rilevare un aggiornamento e in caso di tale aggiornamento fare un normalissimo play di un file musicale .mp3 come l'audio presente [in questo video](https://www.youtube.com/watch?v=S_aZw7Rr8h4).
+Con questa scheda potete implementare adesso un servizio di monitoraggio dei dati che consenta di rilevare un aggiornamento ed in caso di tale aggiornamento fare un normalissimo play di un file musicale .mp3 come l'audio presente [in questo video](https://www.youtube.com/watch?v=S_aZw7Rr8h4).
 
 Il software che ho usato per fare il monitor dei dati feed rss è [RssTail](http://python-rsstail.readthedocs.io/en/latest/) una libreria python anche usabile da riga di comando in script bash. Lo script è effettivamente semplicissimo lo vedete qui sotto.
 
