@@ -18,7 +18,11 @@ Con il crescente uso dell'internet delle cose è possibile immaginare che i dati
 
 Supponiamo allora di avere una fonte dati strutturata in formato FEED RSS, ho preso per questo esperimento [questa allerta](http://emergency.copernicus.eu/mapping/list-of-components/EMSN046) sul sito di [Copernicus EMS](http://emergency.copernicus.eu/) attivata per un alluvione in Germania che sta avvenendo in questi giorni. Il feed attivato per dare aggiornamenti è [questo](http://emergency.copernicus.eu/mapping/list-of-components/EMSN046/feed).
 
-Supponiamo di voler suonare un allarme ogni volta che Copernicus EMS invia un aggiornamento su questa allerta tramite il Feed RSS. Se ipotizziamo di avere una "centrale" connessa al web il nostro sistema si implementa anche a basso costo. La centrale per fare questo è implementabile oggi con una semplice scheda elettronica come un [Raspberry PI](https://www.raspberrypi.org/products/raspberry-pi-3-model-b/) che si può connettere con un'uscita audio ad una periferica di vostro piacimento (megafono, altoparlanti...). Con questa scheda quale potete implementare adesso il servizio di monitor dei dati in modo da rilevare un aggiornamento e in caso di tale aggiornamento fare un normalissimo play di un file musicale .mp3 come [quello in questo video](https://www.youtube.com/watch?v=S_aZw7Rr8h4).
+Supponiamo di voler suonare un allarme ogni volta che Copernicus EMS invia un aggiornamento su questa allerta tramite il Feed RSS. Se ipotizziamo di avere una "centrale" connessa al web il nostro sistema si implementa anche a basso costo. La centrale per fare questo è implementabile oggi con una semplice scheda elettronica come un [Raspberry PI](https://www.raspberrypi.org/products/raspberry-pi-3-model-b/) che si può connettere con un'uscita audio ad una periferica di vostro piacimento (megafono, altoparlanti...).
+
+![esempio di connessione cassa audio con Raspberry](https://www.dexterindustries.com/wp-content/uploads/2016/11/Speaker-Speaker_and_Raspberry_Pi.jpg)
+
+Con questa scheda quale potete implementare adesso il servizio di monitor dei dati in modo da rilevare un aggiornamento e in caso di tale aggiornamento fare un normalissimo play di un file musicale .mp3 come [quello in questo video](https://www.youtube.com/watch?v=S_aZw7Rr8h4).
 
 Il software che ho usato per fare il monitor dei dati feed rss è [RssTail](http://python-rsstail.readthedocs.io/en/latest/) una libreria python anche usabile da riga di comando in script bash. Lo script è effettivamente semplicissimo lo vedete qui sotto.
 
