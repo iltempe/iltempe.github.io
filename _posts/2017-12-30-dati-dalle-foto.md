@@ -8,7 +8,7 @@ tags:
   - mappe
   - mobile
   - civic hacking
-image: /assets/article_images/2017-12-30-dati-dalle-foto/1.png
+image: /assets/article_images/2017-12-30-dati-dalle-foto/1.jpg
 ---
 
 In questi giorni mi è stato chiesto un suggerimento su una soluzione "semplice" da installare per fare una mappatura completa di una serie di oggetti disposti nei luoghi pubblici di una città. Esistono milioni di applicazioni software e di soluzioni che vi consentono di creare questo tipo di mappe semplicemente muovendosi con uno smartphone in mano. Tutte però richiedono l'installazione di specifiche APP e non tutte son completamente "aperte" nel senso che non tutte vi consentono l'accesso ai dati raccolti.
@@ -16,6 +16,8 @@ In questi giorni mi è stato chiesto un suggerimento su una soluzione "semplice"
 Supponiamo poi che a mappare debba essere qualcuno che ha poco tempo e poco skill tecnologico, questo soggetto deve essere messo in condizioni di dover fare poche azioni per farlo.
 
 Lo scenario che ho ipotizzato quindi è il seguente: operatori ecologici che distribuiscono i cassonetti per la raccolta differenziata ai condomini e alle aziende della mia zona. Mentre lo fanno la loro direzione richiede anche di tenere traccia della posizione dell'installazione dei raccoglitori dei rifiuti in modo da visionare in tempo reale lo stato della distribuzione nella città.
+
+![](/assets/article_images/2017-12-30-dati-dalle-foto/8.jpg)
 
 La soluzione secondo me più rapida che si può suggerire è quella di scattare una foto ai raccoglitori una volta consegnati. Una foto? Si avete capito bene. Una foto con uno smartphone (su cui è stata accuratamente abilitato la localizzazione durante lo scatto della fotografia) consente di memorizzare la posizione in un'immagine, posizione geografica che può essere analizzazione in seguito. E' esattamente ciò che molti sistemi operativi fanno quando vi consentono di visualizzare le vostre fotografie su mappa così che facilmente possiate navigarle e ripercorrere i vostri ricordi associandoli ai luoghi che avete visitato.
 
