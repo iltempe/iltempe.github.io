@@ -31,6 +31,8 @@ In questi dati son memorizzate moltissime informazioni tra cui la posizione geog
 
 Fatto. A questo punto avete un CSV contenente le posizioni dei vostri cassonetti dei rifiuti che potete facilmente visionare con un qualunque software di mappatura come [Umap](https://umap.openstreetmap.fr/it/) ma anche lo stesso [My Maps](https://www.google.com/intl/it/maps/about/mymaps/) di Google come ho fatto qui sotto.
 
+<script src="https://gist.github.com/iltempe/59032be24703580b3dd028536b54e0e8.js"></script>
+
 <iframe src="https://www.google.com/maps/d/embed?mid=1KA-ofpOIgc1D2kudJr0jPuil4XSafHB9" width="640" height="480"></iframe>
 
 Il metodo è uno dei tanti metodi che si possono certamente ideare per data collection ma tra i tanti ha due aspetti importanti che lo rende di semplice utilizzo:
