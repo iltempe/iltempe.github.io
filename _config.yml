@@ -38,8 +38,8 @@ social:
     url:	https://twitter.com/il_tempe
     desc: Follow me on twitter
     share_url: http://twitter.com/share
-    share_title: ?text=
-    share_link: "&amp;url="
+    share_title:
+    share_link:
 
   - icon:	telegram
     url:	https://t.me/iltempe
@@ -50,10 +50,17 @@ social:
 
   - icon:	facebook
     url:	https://www.facebook.com/matteotempestin/
-    desc: Connect with me facebook
+    desc: Connect with me Facebook
     share_url: https://www.facebook.com/sharer.php
-    share_title: ?t=
-    share_link: "&amp;u="
+    share_title:
+    share_link:
+
+  - icon:	instagram
+    url:	https://www.instagram.com/matteo_tempestini/
+    desc: Follow me in Instagram
+    share_url:
+    share_title:
+    share_link:
 
   - icon:	github
     url:	https://github.com/iltempe
