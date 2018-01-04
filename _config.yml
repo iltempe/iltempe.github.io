@@ -36,7 +36,7 @@ google_analytics: UA-47474515-2
 social:
   - icon:	twitter
     url:	https://twitter.com/il_tempe
-    desc: Follow me on twitter
+    desc: Follow me on Twitter
     share_url: http://twitter.com/share
     share_title:
     share_link:
@@ -50,24 +50,33 @@ social:
 
   - icon:	facebook
     url:	https://www.facebook.com/matteotempestin/
-    desc: Connect with me Facebook
+    desc: Connect with me in Facebook
     share_url: https://www.facebook.com/sharer.php
     share_title:
     share_link:
 
   - icon:	instagram
     url:	https://www.instagram.com/matteo_tempestini/
-    desc: Follow me in Instagram
+    desc: Follow me on Instagram
+    share_url:
+    share_title:
+    share_link:
+
+  - icon:	youtube
+    url:	https://www.youtube.com/user/ziotempe/
+    desc: Follow me on Youtube
     share_url:
     share_title:
     share_link:
 
   - icon:	github
     url:	https://github.com/iltempe
-    desc:	Fork me on github
+    desc:	Fork me on Github
     share_url:
     share_title:
     share_link:
+
+
 
 # uncomment, if you prefer to generate named folders
 #page_gen-dirs: true
