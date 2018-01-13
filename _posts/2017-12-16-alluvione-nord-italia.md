@@ -15,7 +15,7 @@ Come già fatto per l'[alluvione di Livorno](http://iltempe.github.io/blog/2017/
 
 Il progetto EMS di Copernicus, che produce i dati delle foto satellitari di territori in emergenza, riporta il monitoraggio dell'evento [qui](http://emergency.copernicus.eu/mapping/list-of-components/EMSR260/). L'area, essendo molto vasta, è stata divisa in 10 sottomappe come si vede dalla mappa sul sito di Copernicus. Se si vuole avere una visione completa dell'evento, i dati da esaminare e da fondere quindi in questo caso non sono pochi.
 
-![area monitorata da Copernicus](http://cdn-h.copernicus-ems.eu/mapping/sites/default/files/thumbnails/EMSR260-AEM-1513327517-r02-v1.jpg)
+![area monitorata da Copernicus](/assets/article_images/2017-12-16-alluvione-nord-italia/3.jpg)
 
 Mi sono quindi avvalso dell'aiuto della [EMS Toolbox](http://iltempe.github.io/blog/2017/09/20/toolbox-per-ems.html) che, per chi non ricordasse, è un insieme di script che consente, definita un'emergenza o più di una presenti sul sito di Copernicus, di scaricare i dati ricavati dalle osservazioni satellitari, scaricare le foto stesse ed eventualmente fondere i dati di varie zone geografiche assieme in file georiferiti di tipo [shape](https://it.wikipedia.org/wiki/Shapefile) così che siano visionabili in un unico progetto di un'applicazione per gestione informazioni georiferite come [QGIS](https://www.qgis.org/it/site/).
 
