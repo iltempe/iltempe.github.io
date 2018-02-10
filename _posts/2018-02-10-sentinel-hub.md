@@ -25,10 +25,10 @@ Il servizio vi consente inoltre di sviluppare la vostra applicazione attivando u
 
 Ok, detto questo...cosa ho fatto? Mi sono quindi cimentato nel riuso delle immagini satellitari per provare a vedere le acquisizioni fatte sulla città di Prato in un certo lasso di tempo.
 
-Dopo aver registrato un account trial di prova configurate un'applicazione in [questa pagina](https://apps.sentinel-hub.com/configurator/#/configurations/) vi viene fornito un codice chiamato "Service end-points" da inserire nel vostro codice. Il codice seguente è piuttosto commentato e si comprende bene, il risultato è che le immagini che vengono trovate nel tempo che avete impostato sono scaricate sul vostro computer in formato PNG e possono essere analizzate.
+Dopo aver registrato un account trial di prova configurate un'applicazione in [questa pagina](https://apps.sentinel-hub.com/configurator/#/configurations/) vi viene fornito un codice chiamato "Service end-points" da inserire nel vostro codice. Il codice seguente è piuttosto commentato e si comprende bene, in ogni caso lo trovate archiviato sul [mio github qui](https://github.com/iltempe/notebooks/blob/master/Sentinel%20Hub%20Prato.ipynb). Eseguendo tutto, il risultato è che le immagini che vengono trovate nell'intervallo di tempo che avete impostato sono scaricate sul vostro computer in formato PNG e possono essere visualizzate e analizzate.
 
-Fonte http://sentinelhub-py.readthedocs.io/en/latest/examples/ogc_request.html#Imports
-configuazione e import, la configurazione dell'applicazione deve essere fatta qui https://apps.sentinel-hub.com/configurator/#/ inserendo INSTANCE_ID che viene fornito
+La fonte è la guida online che trovate a http://sentinelhub-py.readthedocs.io/en/latest/examples/ogc_request.html#Imports
+configuazione e import, la configurazione dell'applicazione deve essere fatta in questa pagina https://apps.sentinel-hub.com/configurator/#/ inserendo nella variabile INSTANCE_ID la chiave che viene fornita
 
 
 ```python
