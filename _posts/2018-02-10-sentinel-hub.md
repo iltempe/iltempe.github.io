@@ -10,7 +10,7 @@ tags:
   - civic hacking
   - iptyhon
   - copernicus
-image: /assets/article_images/2018-02-10-sentinel-hub/3.png
+image: /assets/article_images/2018-02-10-sentinel-hub/4.jpg
 ---
 
 Premessa: Il post serve per spiegare che si può creare effettivamente servizi (anche a pagamento) a partire dai dati pubblici (ad esempio quelli di [Copernicus](http://www.copernicus.eu/) ma non solo) ed anche l'uso che se ne può fare per monitorare le nostre città.
