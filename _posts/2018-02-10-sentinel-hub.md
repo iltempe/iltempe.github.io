@@ -21,9 +21,9 @@ Premessa: Il post serve per spiegare che si può creare effettivamente servizi (
 ![](/assets/article_images/2018-02-10-sentinel-hub/3.png)
 
 
-Il servizio è un servizio che vi consente inoltre di sviluppare la vostra applicazione attivando una trial gratuita di accesso ai dati satellitari in modo pittosto semplice e usando programmazione python e che ha già un modo di visualizzare le immagini e scaricarle (a scopo di prova) in modo gratuito. Chi poi volesse usare le fonti in modo serio può far riferimento ai questi [costi](https://www.sentinel-hub.com/pricing-plans)
+Il servizio vi consente inoltre di sviluppare la vostra applicazione attivando una trial gratuita di accesso ai dati satellitari in modo pittosto semplice e, usando programmazione python, visualizzare le immagini e scaricarle (a scopo di prova) in modo gratuito. Chi poi volesse usare le fonti in modo serio per professione può far riferimento ai questi [costi](https://www.sentinel-hub.com/pricing-plans). A cosa serve quindi il servizio Sentinel Hub fa da "amplificatore" dei provider dei dati satellitari qualunque essi siano, intendo dire i dati aperti consentono anche la creazione di questa tipologia di servizi.
 
-Mi sono quindi cimentato nel riuso delle immagini satellitari per provare a vedere le acquisizioni fatte sulla città di Prato in un certo lasso di tempo.
+Ok, detto questo...cosa ho fatto? Mi sono quindi cimentato nel riuso delle immagini satellitari per provare a vedere le acquisizioni fatte sulla città di Prato in un certo lasso di tempo.
 
 Dopo aver registrato un account trial di prova configurate un'applicazione in [questa pagina](https://apps.sentinel-hub.com/configurator/#/configurations/) vi viene fornito un codice chiamato "Service end-points" da inserire nel vostro codice. Il codice seguente è piuttosto commentato e si comprende bene, il risultato è che le immagini che vengono trovate nel tempo che avete impostato sono scaricate sul vostro computer in formato PNG e possono essere analizzate.
 
@@ -66,7 +66,7 @@ prato_coords_wgs84 = [43.9351, 11.0004, 43.8327, 11.1681]
 prato_bbox = BBox(bbox=prato_coords_wgs84,crs=CRS.WGS84)
 ```
 
-Configurazione della richiesta dei dati satellitari.
+Configurazione della richiesta dei dati satellitari. I paramentri sono la folder di salvataggio delle immagini, il layer (filtro che si vuole attivare), l'area di interesse, le date che definiscono il periodo di osservazione, la dimensioni dell'immagini, la percentuale di nuvolosità che consente di escludere immagini non chiare ed il codice privato associato al vostro account.
 
 
 ```python
