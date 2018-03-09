@@ -44,7 +44,7 @@ Il materiale è solo questo. Non vi serve altro.
 
 Fatto. a questo punto ogni volta che sarete davanti alla panchina da mappare dovrete solo premere la vostra ricetta sul dispositivo mobile e catturerete la posizione della panchina ed automaticamente  aggiornerete i dati su Data.World!
 
-![la ricetta sulla home del dispositivo mobile](/assets/article_images/2018-03-09-mappare-dataworld/6.png)
+![i dati relativi alla posizione salvati online](/assets/article_images/2018-03-09-mappare-dataworld/6.png)
 
-Per usare i dati del file su Data.World sarà sufficiente un qualenque software di mappatura che possa leggere i dati di localizzazione (si rimanda per questo all'uso di [Umap](https://umap.openstreetmap.fr/it/)
+Per usare i dati del file su Data.World sarà sufficiente un qualenque software di mappatura che possa leggere i dati di localizzazione (si rimanda per questo all'uso di [Umap](https://umap.openstreetmap.fr/it/).
 
