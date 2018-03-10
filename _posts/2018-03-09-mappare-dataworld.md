@@ -29,9 +29,9 @@ Il materiale è solo questo. Non vi serve altro.
 
 ![](/assets/article_images/2018-03-09-mappare-dataworld/5.png)
 
-- Usando il canale di IFTTT di Data.World creare una ricetta su IFTTT come indicato in figura sotto
+- Usando il [canale di IFTTT di Data.World](https://ifttt.com/datadotworld) creare una ricetta su IFTTT come indicato in figura sotto
 
-![](/assets/article_images/2018-03-09-mappare-dataworld/1.png)
+![servizio IFTTT di dataworld](/assets/article_images/2018-03-09-mappare-dataworld/1.png)
 
 ![](/assets/article_images/2018-03-09-mappare-dataworld/2.png)
 
