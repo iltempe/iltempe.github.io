@@ -29,7 +29,7 @@ Il materiale è solo questo. Non vi serve altro.
 
 ![](/assets/article_images/2018-03-09-mappare-dataworld/5.png)
 
-- Usando il [canale di IFTTT di Data.World](https://ifttt.com/datadotworld) creare una ricetta su IFTTT come indicato in figura sotto
+- Usando il [canale di IFTTT di Data.World](https://ifttt.com/datadotworld) creare una ricetta su IFTTT come indicato in figura sotto (è una ricetta del tipo "append a record to a stream")
 
 ![servizio IFTTT di dataworld](/assets/article_images/2018-03-09-mappare-dataworld/1.png)
 
