@@ -13,7 +13,7 @@ image: /assets/article_images/2018-03-09-mappare-dataworld/0.jpeg
 ---
 
 
-Di seguito un brevissimo tutorial per chi vuole mappare oggetti, vuole al contempo produrre dati aperti e non vuole usare server propri per archiviare i dati bensi usare piattaforme esistenti. Si esegue tutto gratuitamente in circa un 'ora di tempo senza nemmeno una riga di codice.
+Di seguito un brevissimo tutorial per chi vuole mappare oggetti, vuole al contempo produrre dati e non vuole usare server propri per archiviare i dati bensi usare piattaforme esistenti. Si esegue tutto gratuitamente in circa un 'ora di tempo senza una riga di codice.
 
 ## Ingredienti:
 
@@ -29,7 +29,9 @@ Il materiale è solo questo. Non vi serve altro.
 
 ![](/assets/article_images/2018-03-09-mappare-dataworld/5.png)
 
-- Usando il canale di IFTTT di [Data.World] Creare una ricetta su IFTTT come indicato in figura sotto
+- Usando il canale di IFTTT di Data.World creare una ricetta su IFTTT come indicato in figura sotto
+
+![](/assets/article_images/2018-03-09-mappare-dataworld/1.png)
 
 ![](/assets/article_images/2018-03-09-mappare-dataworld/2.png)
 
