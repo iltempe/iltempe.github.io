@@ -39,7 +39,7 @@ Il materiale è solo questo. Non vi serve altro.
 
 - Installate IFTTT sul vostro smartphone, assicuratevi che IFTTT abbia accesso alla localizzazione del vostro dispositivo mobile (tra i setting del vostro account)
 
-- Create con IFTTT un widget sulla Home del vostro dispositivo mobile dalla sezione widget, questo vi consentirà di attivare la ricetta come un semplice pulsante sul telefono. Scegliete nella sezione widget la ricetta appena creata, in questo modo la vedrete comparire sulla home come una normalissima APP!
+- Create con IFTTT un widget sulla Home del vostro dispositivo mobile dalla sezione widget (qualche indicazione per farlo la trovate [qui](https://www.howtogeek.com/220838/how-to-apply-ifttt-recipes-using-the-do-button-for-ios/)) questo vi consentirà di attivare la ricetta come un semplice pulsante sul telefono. Scegliete nella sezione widget la ricetta appena creata, in questo modo la vedrete comparire sulla home come una normalissima APP!
 
 ![la sezione widget di IFTTT](/assets/article_images/2018-03-09-mappare-dataworld/1.jpg)
 ![la ricetta sulla home del dispositivo mobile](/assets/article_images/2018-03-09-mappare-dataworld/7.png)
