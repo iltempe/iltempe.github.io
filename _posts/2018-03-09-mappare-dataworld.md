@@ -37,7 +37,7 @@ Il materiale è solo questo. Non vi serve altro.
 
 é importante che nello spazio relativo allo stream inseriate l'identificativo del vostro "stream" che è l'ultima parte del link relativo ad un progetto da voi creato su Data.World.
 
-- Assicuratevi che IFTTT abbia accesso alla localizzazione del vostro dispositivo mobile (tra i setting del vostro account)
+- Installate IFTTT sul vostro smartphone, assicuratevi che IFTTT abbia accesso alla localizzazione del vostro dispositivo mobile (tra i setting del vostro account)
 
 - Create con IFTTT un widget sulla Home del vostro dispositivo mobile dalla sezione widget, questo vi consentirà di attivare la ricetta come un semplice pulsante sul telefono. Scegliete nella sezione widget la ricetta appena creata, in questo modo la vedrete comparire sulla home come una normalissima APP!
 
