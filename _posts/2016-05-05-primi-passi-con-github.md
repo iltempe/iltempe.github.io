@@ -146,7 +146,7 @@ In questo step finale, è tempo di portare le tue modifiche fondendole dal tuo b
 
 Evviva!
 
-Completando questo tutororial, hai imparato a creare un progetto e fare una pull request su Github!
+Completando questo tutorial, hai imparato a creare un progetto e fare una pull request su Github!
 
 Qui a cosa ti sarà utile questo tutorial:
 
