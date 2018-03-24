@@ -18,7 +18,7 @@ Per chi volesse approfondire il tema della teoria dell'informazione rimando a [W
 Il linguaggio usato è python 3, ma solo perchè fornisce già tutta una serie di strumenti pronti per interpretare le immagini e usarle come fonte di dati utili. Ad esempio qui si usa [opencv](https://opencv.org/) e [scipy](https://www.scipy.org/) libreri di cui consiglio lo studio prima di cimentarvi in questo campo. Non è necessario conoscere tutto la teorica che c'è dietro ad ogni singolo strumento ma per lo meno comprendere cosa ci si può fare e come ogni funzione delle librerie può tornare utile..
 
 Il punto di partenza sono delle immagini scattate all'asfalto delle vostre strade. Potete usare un normale smartphone per farlo, meglio se abilitate la localizzazione mentre lo fate, oppure anche una fotocamera più costosa. Per comodità ho usato un notebook ipython, ma potete lavorare a riga di comando. L'algoritmo seguente non fa altro che estrarre un punteggio tanto più alto quanto più difetti dell'asfalto sono identificati. Di seguito trovate il codice commentato.
-
+Il notebook è archiviato [qui](https://github.com/iltempe/notebooks/blob/master/street_quality.ipynb).
 Istruzioni per importare le librerie python. Definizione di una funzione per mostrare le immagini durante l'analisi. Lettura dell'immagine da file .jpg
 
 
