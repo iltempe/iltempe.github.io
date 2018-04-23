@@ -11,7 +11,7 @@ image: /assets/article_images/2018-04-22-prima-lezione/1.jpg
 
 Qui le mie slide della mia prima lezione di Civic Hacking, che ho tenuto oggi stesso a Prato presso la scuola media Zipoli parte dell'[istituto comprensivo Gandhi](http://www.gandhi.prato.gov.it/). Per la precisione ho introdotto questo tema alla classe 3°D delle scuole secondarie dell'istituto.
 
-Un grazie agli insegnanti e alla dirigenza che hanno risposto alla mia richiesta di provare a sperimentare con un intervento su questa materia dedicando un'ora di lezione.
+Un grazie agli insegnanti e alla dirigenza che hanno risposto alla mia richiesta di sperimentare con un intervento su questa materia dedicando un'ora di lezione.
 
 Mi auguro che si possa continuare su questo percorso che unisce la tecnologia all'educazione civica, un mix di cui abbiamo molto bisogno adesso in Italia.
 
