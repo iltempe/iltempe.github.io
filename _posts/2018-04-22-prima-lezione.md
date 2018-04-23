@@ -17,7 +17,7 @@ Mi auguro che si possa continuare su questo percorso che unisce la tecnologia al
 
 Non ho affidato nessun "compito per casa", ma ho solo chiesto ad i ragazzi, se hanno trovato gli argomenti di loro interesse, di approfondirli, di provare ad usare uno degli strumenti presentati e di farmelo sapere con una mail.
 
-Le slide sono completamente visionabili [qui](https://gitpitch.com/iltempe/civichacking_a_scuola#/), ovviamente per domande sono a disposizione sempre.
+Le slide sono completamente visionabili anche [qui](https://gitpitch.com/iltempe/civichacking_a_scuola#/), ovviamente per domande sono a disposizione sempre.
 
 <iframe width="700" height="550" src="https://gitpitch.com/iltempe/civichacking_a_scuola#/" frameborder="0" allowfullscreen></iframe>
 
