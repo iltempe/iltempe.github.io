@@ -6,7 +6,7 @@ categories: blog
 tags:
   - civic hacking
   - scuola
-image: /assets/article_images/2018-01-06-civic-hacking-come-materia/1.jpg
+image: /assets/article_images/2018-10-06-civic-hacking-come-materia/1.jpg
 ---
 
 Qui le mie slide del mio workshop alla [Giornata Regionale dell'Apprendimento Digitale](http://apprendimentodigitale.po-net.prato.it/pagina86.html).
