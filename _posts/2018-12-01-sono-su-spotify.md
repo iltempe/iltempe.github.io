@@ -14,4 +14,4 @@ Da qualche giorno mi trovate su [Spotify](https://open.spotify.com/artist/662X8f
 
 Il mio primo brano si chiama "Tormentone di Natale" ed è una canzone natalizia rivisitata in chiave latino-americana. Qui sotto il video. Buona visione e buon ascolto!
 
-{% include youtubePlayer.html id=Ifdxb7C5w %}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/x-Ifdxb7C5w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
