@@ -76,6 +76,12 @@ social:
     share_title:
     share_link:
 
+  - icon:	spotify
+    url:	https://open.spotify.com/artist/662X8f9CUE0e8IRxppJG0D?si=ddAQktVwSQibuG8VZAVmIw
+    desc:	Ascoltami su Spotify
+    share_url:
+    share_title:
+    share_link:
 
 # uncomment, if you prefer to generate named folders
 #page_gen-dirs: true
