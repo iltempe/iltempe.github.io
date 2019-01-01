@@ -12,7 +12,7 @@ tags:
 image: /assets/article_images/2019-01-01-come-accendere-tv/1.jpg
 ---
 
-Da un po' di mesi per approfondire sto osservando cosa si è combinato in casa Google in questi ultimi anni. Scopo capire un po' di più di quello che in casa "grande G" sta succendendo specie a favore degli utenti sviluppatori (come me).
+Da un po' di mesi per approfondire sto osservando cosa si è combinato in casa Google in questi ultimi anni. Voglio capire un po' di più di quello che "grande G" ha fatto e fa specie a favore di utenti sviluppatori (come me). E' sempre stata una caratteristica di Google infatti quella di rendere "usabile" la propria tecnologia per utenti che vogliano essere anche sviluppatori software. In questo senso Google è un'azienda aperta come modello di buisness.
 
 Iniziamo con un tutorial semplice per tutti basato sull'uso della chiavetta [Google Chromecast](https://store.google.com/product/chromecast). Questa chiavetta è ormai famosa perchè tramite la connessione HDMI con un televisore, lo rende "smart" e ne consente l'utilizzo tramite lo smartphone e la connessione con alcune APP. Ad esempio [Youtube](https://www.youtube.com/?) vi consente di trasferire i contenuti video in streaming dallo smartphone alla vostra TV direttamente tramite la chiavetta Chromecast. Uno degli indubbi vantaggi di usare Chromecast è che la vostra TV viene direttamente connessa alla WiFi di casa (non vi serve alcun dispositivo che faccia da modem per intendersi).
 
