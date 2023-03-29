@@ -4,7 +4,7 @@ plugins:
   - jekyll-paginate
 
 # Site settings
-title: "IlTempe"
+title: "iltempe"
 description: > # this means to ignore newlines until "email:"
    io, me e tutto quello che vi posso dire
 
