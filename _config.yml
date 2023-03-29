@@ -16,8 +16,8 @@ float_logo: true # true, false (default)
 # blog cover
 cover: "/assets/images/cA4aKEIPQrerBnp1yGHv_IMG_9534-3-2.jpg"
 
-name: 'Matteo Tempestini'
-author: 'Matteo Tempestini'
+name: 'iltempe'
+author: 'iltempe'
 author_image: "/assets/images/author.jpg"
 
 paginate:	5
