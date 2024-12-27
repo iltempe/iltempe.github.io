@@ -26,3 +26,4 @@ end
 
 gem 'html-proofer'
 gem 'jekyll-tidy'
+gem 'nokogiri', '>= 1.10.0'
