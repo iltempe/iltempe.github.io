@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 <p class="message">
-Questa è la pagina dove dovrei inserire tutte le mie informazioni personali. Mi chiamo Matteo Tempestini, detto iltempe. Classe 1980. Di Prato. Babbo. Ingegnere Informatico. Civic Hacker per passione. Scrivo canzoni per passione da quando avevo 14 anni. Adoro la tecnologia applicata alla vita e alla società se ci può consentire a vivere meglio. Ma se sei arrivato sino a qui puoi leggermi per conoscere chi sono veramente.
+Questa è la pagina dove dovrei inserire tutte le mie informazioni personali. Mi chiamo Matteo Tempestini, detto iltempe. Classe 1980. Di Prato. Babbo. Ingegnere Informatico. Civic Hacker per passione. Scrivo canzoni da quando avevo 14 anni. Adoro la tecnologia applicata alla vita e alla società se ci può consentire a vivere meglio. Ma se sei arrivato sino a qui puoi leggermi per conoscere chi sono veramente.
 </p>
 
 Rilascio il mio codice su [GitHub](https://github.com/iltempe).

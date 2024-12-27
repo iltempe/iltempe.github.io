@@ -6,7 +6,7 @@ plugins:
 # Site settings
 title: "iltempe"
 description: > # this means to ignore newlines until "email:"
-   io, me e tutto quello che vi posso dire
+   Scrivo le canzoni. O almeno ci provo.
 
 email: mtempestini@gmail.com
 #blog logo
@@ -83,19 +83,4 @@ social:
     share_title:
     share_link:
 
-# uncomment, if you prefer to generate named folders
-#page_gen-dirs: true
-
-#page_gen:
-#  - data: 'musei'
-#    template: 'musei'
-#    name: 'id'
-#    dir: 'musei'
-
-#  - icon:	google-plus
-#    url:	https://google.com/???
-#    desc:	Add me on google+
-#    share_url:
-#    share_title:
-#    share_link:
 
