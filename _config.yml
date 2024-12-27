@@ -41,13 +41,6 @@ social:
     share_title:
     share_link:
 
-  - icon:	telegram
-    url:	https://t.me/iltempe
-    desc: Follow me on Telegram
-    share_url:
-    share_title:
-    share_link:
-
   - icon:	facebook
     url:	https://www.facebook.com/iltempefacebook/
     desc: Connect with me in Facebook
