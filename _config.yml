@@ -83,4 +83,11 @@ social:
     share_title:
     share_link:
 
+  - icon:  newspaper-o
+    url: https://substack.com/@iltempe
+    desc: Leggimi su Substack
+    share_url:
+    share_title:
+    share_link:
+
 
