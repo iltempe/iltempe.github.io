@@ -55,8 +55,8 @@ social:
     share_title:
     share_link:
  
- - icon:  tiktok
-    url:	https://www.tiktok.com/@iltempesong
+  - icon:  tiktok
+    url: https://www.tiktok.com/@iltempesong
     desc: Follow me on TikTok
     share_url:
     share_title:
