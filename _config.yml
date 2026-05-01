@@ -35,9 +35,9 @@ google_analytics: UA-47474515-2
 # social icons and sharing options
 social:
   - icon:	twitter
-    url:	https://twitter.com/il_tempe
-    desc: Follow me on Twitter
-    share_url: http://twitter.com/share
+    url:	https://x.com/iltempe
+    desc: Follow me on X
+    share_url: https://x.com/share
     share_title:
     share_link:
 
