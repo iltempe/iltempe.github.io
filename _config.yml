@@ -6,7 +6,7 @@ plugins:
 # Site settings
 title: "iltempe"
 description: > # this means to ignore newlines until "email:"
-   Scrivo le canzoni. O almeno ci provo.
+   Computer Engineer, Civic Hacker, Songwriter
 
 email: mtempestini@gmail.com
 #blog logo
