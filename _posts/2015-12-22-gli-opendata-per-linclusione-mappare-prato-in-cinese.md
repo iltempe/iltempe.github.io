@@ -60,12 +60,12 @@ image: /assets/article_images/2015-12-22-gli-opendata-per-linclusione-mappare-pr
   Tutti i dati di Openstreetmap mappati in una certa lingua possono essere visualizzati con tool di interrogazione Openstreetmap come OverpassTurbo. Con <a href="http://overpass-turbo.eu/s/dmW">questo link</a> ad esempio visualizzate i luoghi mappati in cinese di Prato ad oggi.  Scaricando il file dei dati in formato <strong>geoJson</strong> potete creare una mappa con le indicazioni che avete tradotto e che sono inserite all&#8217;interno di Openstreetmap. Per esempio archiviando gli attuali dati tradotti su github vedrete questa mappa.
 </p>
 
-Se poi avete confidenza con ambienti di lavoro come <a href="https://www.mapbox.com" target="_blank">Mapbox</a> potete divertirvi ad usare i dati per fare mappe come quella sotto.
+I dati mappati sono visualizzabili direttamente su OpenStreetMap.
 
-Un paio di esempi di possibili mappe che si possono creare
+Un paio di esempi di mappe dei luoghi mappati a Prato:
 
-  * Una mappa in doppia lingua creata da me con Mapbox è visibile [qui](https://api.mapbox.com/styles/v1/iltempe/ciih8iw2300c0brkmkmd5qhz8.html?title=true&access_token=MAPBOX_TOKEN_REMOVED#14.09/43.8855/11.0839) con i luoghi mappati ad oggi.
-  * Un mappa che mostra Prato con i luoghi in cinese via via che sono mappati la trovate <a href="https://api.mapbox.com/styles/v1/iltempe/cij1k30qk003icam59eo8iyft.html?title=true&access_token=MAPBOX_TOKEN_REMOVED#14.244975988674852/43.88246470979311/11.08937891092097/0" target="_blank">qui</a>. (creata sempre con Mapbox)
+  * [Mappa OpenStreetMap di Prato](https://www.openstreetmap.org/#map=14/43.8855/11.0839) con i luoghi mappati ad oggi.
+  * [Mappa OpenStreetMap con i luoghi in cinese a Prato](https://www.openstreetmap.org/#map=14/43.8825/11.0894) con le traduzioni inserite nella piattaforma.
 
   ![](/assets/article_images/2015-12-22-gli-opendata-per-linclusione-mappare-prato-in-cinese/1.jpg)
   ![](/assets/article_images/2015-12-22-gli-opendata-per-linclusione-mappare-prato-in-cinese/2.jpg)
