@@ -90,4 +90,11 @@ social:
     share_title:
     share_link:
 
+  - icon:  coffee
+    url: https://buymeacoffee.com/iltempe
+    desc: Offrimi un caffè
+    share_url:
+    share_title:
+    share_link:
+
 
