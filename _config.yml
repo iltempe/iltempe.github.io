@@ -83,14 +83,23 @@ social:
     share_title:
     share_link:
 
-  - icon:  newspaper-o
+  - icon: soundcloud
+    url: https://soundcloud.com/iltempe
+    desc: Ascoltami su SoundCloud
+    share_url:
+    share_title:
+    share_link:
+
+  - icon: newspaper
+    icon_prefix: fa-solid
     url: https://substack.com/@iltempe
     desc: Leggimi su Substack
     share_url:
     share_title:
     share_link:
 
-  - icon:  coffee
+  - icon: mug-hot
+    icon_prefix: fa-solid
     url: https://buymeacoffee.com/iltempe
     desc: Offrimi un caffè
     share_url:
