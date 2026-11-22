@@ -1,0 +1,71 @@
+- nome: "Osservatorio Soccorso"
+  anno: 2024
+  descrizione: "Osservatorio civico sul raddoppio della Declassata a Prato tra via Marx e via Nenni. Raccoglie costi, tempi e atti ufficiali dall'annuncio ad oggi, confrontando le date promesse con quelle reali. Dati scaricabili in CSV con licenza aperta."
+  url: "https://iltempe.github.io/osservatorio-soccorso/"
+  tag: "civic"
+
+- nome: "PS Prato Live"
+  anno: 2023
+  descrizione: "Dashboard in tempo reale dell'occupazione del Pronto Soccorso di Prato, con dati campionati ogni 15 minuti, simulatore gemello digitale e confronto con gli altri PS della Toscana."
+  url: "https://pspratolive.it/"
+  tag: "salute"
+
+- nome: "PratoMiMuovo"
+  anno: 2019
+  descrizione: "Proposta civica per una mobilità urbana intelligente a Prato, con dashboard su ordinanze di viabilità, traffico e qualità dell'aria basate su dati aperti e sensori."
+  url: "https://iltempe.github.io/pratomimuovo/"
+  tag: "civic"
+
+- nome: "JMAP"
+  anno: 2017
+  descrizione: "Framework opensource basato su Jekyll per generare mappe interattive dai dati. Usato per mappe di musei, Wi-Fi pubblico, crime mapping e dati territoriali."
+  url: "https://iltempe.github.io/jmap/"
+  tag: "mappe"
+
+- nome: "Incisore Laser del Tempe"
+  anno: 2017
+  descrizione: "Progetto maker: costruzione e documentazione di un incisore laser artigianale. Il repository raccoglie firmware, schemi e istruzioni in open source."
+  url: "https://github.com/iltempe/MyLaserEngraver"
+  tag: "maker"
+
+- nome: "EmergenzePrato"
+  anno: 2017
+  descrizione: "Piattaforma civica che monitora dati idro-meteo e sismici in tempo reale per Prato: livelli di fiumi, pioggia, allerte e terremoti. Invia avvisi su Telegram quando le soglie vengono superate e pubblica i dati come open data."
+  url: "https://www.emergenzeprato.it/"
+  tag: "salute"
+
+- nome: "TerremotoCentroItalia"
+  anno: 2016
+  descrizione: "Progetto informativo nato durante i sismi del Centro Italia del 2016. Raccoglie segnalazioni, offerte di aiuto, notizie, mappe e dataset aperti per la gestione dell'emergenza."
+  url: "http://www.terremotocentroitalia.info"
+  tag: "salute"
+
+- nome: "HackForItaly"
+  anno: 2016
+  descrizione: "Comunità italiana di civic hacker che usano la tecnologia per risolvere problemi civici. Un gruppo attivo per connettere sviluppatori, designer e attivisti."
+  url: "https://www.facebook.com/groups/1695961784054698/"
+  tag: "civic"
+
+- nome: "Open Data Toscana"
+  anno: 2016
+  descrizione: "Gruppo di discussione toscano su open data, dati aperti pubblici e riuso delle informazioni della pubblica amministrazione."
+  url: "https://www.facebook.com/groups/1472646209661135/"
+  tag: "civic"
+
+- nome: "OpenDataGenteDiPrato"
+  anno: 2016
+  descrizione: "Portale di open data per la città di Prato: raccoglie e pubblica dataset della pubblica amministrazione locale per favorirne il riuso da parte di cittadini e sviluppatori."
+  url: "http://iltempe.github.io/opendatagentediprato/"
+  tag: "civic"
+
+- nome: "Escilaricetta"
+  anno: 2016
+  descrizione: "Esperimento per produrre open data a partire da ricette di cucina, esplorando come strutturare informazioni non strutturate in formati riusabili."
+  url: "http://escilaricetta.github.io/recipe-site/"
+  tag: "civic"
+
+- nome: "Pratosmart"
+  anno: 2015
+  descrizione: "Il mio primo weblab: sperimentazione su dati aperti, mappe e tecnologia civica applicati alla città di Prato. Punto di partenza di molti dei progetti successivi."
+  url: "http://iltempe.github.io/pratosmart"
+  tag: "civic"
